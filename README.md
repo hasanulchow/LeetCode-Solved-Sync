@@ -49,6 +49,7 @@
 | [0014-longest-common-prefix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0443-string-compression) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/HasanulRafi/LeetCode/tree/master/0768-partition-labels) |
@@ -68,6 +69,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/HasanulRafi/LeetCode/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1894-merge-strings-alternately) |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HasanulRafi/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0392-is-subsequence) |
 ## Queue
 |  |
 | ------- |
