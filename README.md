@@ -11,6 +11,7 @@
 | [0283-move-zeroes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/HasanulRafi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0974-reorder-data-in-log-files](https://github.com/HasanulRafi/LeetCode/tree/master/0974-reorder-data-in-log-files) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HasanulRafi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/HasanulRafi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/HasanulRafi/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
