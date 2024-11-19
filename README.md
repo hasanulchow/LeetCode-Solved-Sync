@@ -18,6 +18,7 @@
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/HasanulRafi/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HasanulRafi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -147,6 +148,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HasanulRafi/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/HasanulRafi/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Prefix Sum
@@ -160,6 +162,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HasanulRafi/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0392-is-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Queue
 |  |
 | ------- |
