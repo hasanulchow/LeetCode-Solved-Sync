@@ -25,6 +25,7 @@
 | [1755-defuse-the-bomb](https://github.com/HasanulRafi/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HasanulRafi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1833-find-the-highest-altitude) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Trie
 |  |
 | ------- |
@@ -189,4 +191,8 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Simulation
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
