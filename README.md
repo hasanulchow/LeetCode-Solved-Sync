@@ -79,6 +79,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HasanulRafi/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/HasanulRafi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2470-removing-stars-from-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/HasanulRafi/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Sorting
 |  |
@@ -199,4 +200,9 @@
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2470-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
