@@ -26,6 +26,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/HasanulRafi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1833-find-the-highest-altitude) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2428-equal-row-and-column-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2428-equal-row-and-column-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
@@ -41,6 +42,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/HasanulRafi/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/HasanulRafi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HasanulRafi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2428-equal-row-and-column-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/HasanulRafi/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Linked List
@@ -114,6 +116,7 @@
 | ------- |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2428-equal-row-and-column-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2428-equal-row-and-column-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -195,4 +198,5 @@
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2428-equal-row-and-column-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
