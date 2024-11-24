@@ -129,6 +129,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
@@ -162,6 +163,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/HasanulRafi/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 ## Graph
 |  |
@@ -240,4 +242,12 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0969-number-of-recent-calls) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
