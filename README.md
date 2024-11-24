@@ -164,6 +164,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0904-leaf-similar-trees) |
 | [1300-critical-connections-in-a-network](https://github.com/HasanulRafi/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 ## Graph
 |  |
@@ -246,8 +247,10 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->
