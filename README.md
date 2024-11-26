@@ -191,6 +191,7 @@
 | [0871-keys-and-rooms](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0871-keys-and-rooms) |
 | [1300-critical-connections-in-a-network](https://github.com/HasanulRafi/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [3189-find-champion-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3189-find-champion-ii) |
 ## Biconnected Component
 |  |
 | ------- |
