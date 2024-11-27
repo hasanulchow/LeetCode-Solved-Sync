@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/HasanulRafi/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/HasanulRafi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0011-container-with-most-water) |
+| [0215-kth-largest-element-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0334-increasing-triplet-subsequence) |
@@ -101,6 +102,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0974-reorder-data-in-log-files](https://github.com/HasanulRafi/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1777-determine-if-two-strings-are-close](https://github.com/HasanulRafi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -163,6 +165,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Bucket Sort
@@ -214,6 +217,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HasanulRafi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0215-kth-largest-element-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -314,4 +318,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0399-evaluate-division) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
