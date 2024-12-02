@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/HasanulRafi/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/HasanulRafi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0011-container-with-most-water) |
+| [0136-single-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0215-kth-largest-element-in-an-array) |
@@ -406,5 +407,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
