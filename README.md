@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0216-combination-sum-iii) |
@@ -66,6 +67,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/HasanulRafi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/HasanulRafi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0208-implement-trie-prefix-tree) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/HasanulRafi/LeetCode/tree/master/0768-partition-labels) |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -244,6 +247,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0169-majority-element) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
 | [1777-determine-if-two-strings-are-close](https://github.com/HasanulRafi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -296,6 +300,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HasanulRafi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sliding Window
 |  |
