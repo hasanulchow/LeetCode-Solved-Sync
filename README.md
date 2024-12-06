@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0216-combination-sum-iii) |
@@ -97,6 +98,7 @@
 | [0009-palindrome-number](https://github.com/HasanulRafi/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/HasanulRafi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
@@ -164,6 +166,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0392-is-subsequence) |
