@@ -512,4 +512,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
