@@ -14,6 +14,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0036-valid-sudoku](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -268,6 +269,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0054-spiral-matrix) |
 | [0787-sliding-puzzle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -426,6 +428,7 @@ https://seanprashad.com/leetcode-patterns/
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0735-asteroid-collision) |
 | [2232-adding-spaces-to-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2232-adding-spaces-to-a-string) |
