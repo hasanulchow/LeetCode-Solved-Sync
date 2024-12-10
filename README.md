@@ -11,6 +11,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0015-3sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0055-jump-game) |
@@ -87,6 +88,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0013-roman-to-integer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0208-implement-trie-prefix-tree) |
@@ -265,6 +267,7 @@ https://seanprashad.com/leetcode-patterns/
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0036-valid-sudoku) |
 | [0787-sliding-puzzle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
