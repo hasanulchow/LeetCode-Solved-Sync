@@ -1,4 +1,5 @@
 # LeetCode
+https://seanprashad.com/leetcode-patterns/
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
