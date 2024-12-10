@@ -37,6 +37,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0238-product-of-array-except-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0289-game-of-life) |
 | [0334-increasing-triplet-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0399-evaluate-division) |
@@ -277,6 +278,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0048-rotate-image](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0289-game-of-life) |
 | [0787-sliding-puzzle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -440,6 +442,7 @@ https://seanprashad.com/leetcode-patterns/
 | ------- |
 | [0054-spiral-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0735-asteroid-collision) |
 | [2232-adding-spaces-to-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
