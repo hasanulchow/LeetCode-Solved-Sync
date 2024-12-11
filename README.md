@@ -99,6 +99,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0169-majority-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/HasanulRafi/LeetCode/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
@@ -161,6 +162,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0151-reverse-words-in-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0399-evaluate-division) |
@@ -315,6 +317,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
 | [1777-determine-if-two-strings-are-close](https://github.com/HasanulRafi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
