@@ -85,6 +85,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2553-total-cost-to-hire-k-workers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -330,6 +331,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2413-smallest-number-in-infinite-set](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2636-maximum-subsequence-score) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -476,6 +478,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2428-equal-row-and-column-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Stack
 |  |
 | ------- |
