@@ -636,4 +636,5 @@ https://seanprashad.com/leetcode-patterns/
 | [1948-rearrange-products-table](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2024-calculate-special-bonus) |
 | [2087-confirmation-rate](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2087-confirmation-rate) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
