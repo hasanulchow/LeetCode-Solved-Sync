@@ -601,6 +601,7 @@ https://seanprashad.com/leetcode-patterns/
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0570-managers-with-at-least-5-direct-reports) |
