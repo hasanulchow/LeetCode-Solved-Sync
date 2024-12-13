@@ -493,6 +493,7 @@ https://seanprashad.com/leetcode-patterns/
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0739-daily-temperatures) |
@@ -502,6 +503,7 @@ https://seanprashad.com/leetcode-patterns/
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0937-online-stock-span) |
