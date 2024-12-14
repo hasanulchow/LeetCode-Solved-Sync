@@ -138,6 +138,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HasanulRafi/LeetCode/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -162,6 +163,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HasanulRafi/LeetCode/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0394-decode-string) |
