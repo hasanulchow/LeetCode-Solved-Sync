@@ -138,6 +138,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HasanulRafi/LeetCode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0328-odd-even-linked-list) |
@@ -247,6 +248,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0005-longest-palindromic-substring](https://github.com/HasanulRafi/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
