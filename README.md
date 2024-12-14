@@ -30,6 +30,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0134-gas-station](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0169-majority-element) |
@@ -150,6 +151,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0013-roman-to-integer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
@@ -498,6 +500,7 @@ https://seanprashad.com/leetcode-patterns/
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0735-asteroid-collision) |
