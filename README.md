@@ -113,6 +113,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0128-longest-consecutive-sequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0205-isomorphic-strings) |
@@ -151,6 +152,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0092-reverse-linked-list-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -540,6 +542,7 @@ https://seanprashad.com/leetcode-patterns/
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
@@ -696,4 +699,8 @@ https://seanprashad.com/leetcode-patterns/
 | [2057-count-salary-categories](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
