@@ -322,6 +322,7 @@ https://seanprashad.com/leetcode-patterns/
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0199-binary-tree-right-side-view) |
 | [0399-evaluate-division](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0399-evaluate-division) |
@@ -394,6 +395,7 @@ https://seanprashad.com/leetcode-patterns/
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -562,6 +564,7 @@ https://seanprashad.com/leetcode-patterns/
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -575,6 +578,7 @@ https://seanprashad.com/leetcode-patterns/
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
