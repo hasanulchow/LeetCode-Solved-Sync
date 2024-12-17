@@ -323,6 +323,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0226-invert-binary-tree) |
@@ -397,6 +398,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0226-invert-binary-tree) |
@@ -567,6 +569,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0226-invert-binary-tree) |
@@ -582,6 +585,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0226-invert-binary-tree) |
