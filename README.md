@@ -140,6 +140,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2300-construct-string-with-repeat-limit](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2300-construct-string-with-repeat-limit) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2428-equal-row-and-column-pairs) |
+| [2487-optimal-partition-of-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2487-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/HasanulRafi/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -239,6 +240,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2300-construct-string-with-repeat-limit](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2470-removing-stars-from-a-string) |
+| [2487-optimal-partition-of-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2487-optimal-partition-of-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/HasanulRafi/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -325,6 +327,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1917-maximum-average-pass-ratio](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2089-maximum-matrix-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2300-construct-string-with-repeat-limit) |
+| [2487-optimal-partition-of-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2487-optimal-partition-of-string) |
 | [2636-maximum-subsequence-score](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Breadth-First Search
