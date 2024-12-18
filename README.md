@@ -71,6 +71,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1397-search-suggestions-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/HasanulRafi/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HasanulRafi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -551,6 +552,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0735-asteroid-collision](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0937-online-stock-span) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2470-removing-stars-from-a-string) |
 ## Design
@@ -665,6 +667,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0042-trapping-rain-water](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0937-online-stock-span) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Counting Sort
 |  |
 | ------- |
