@@ -128,6 +128,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0290-word-pattern](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0389-find-the-difference) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/HasanulRafi/LeetCode/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
@@ -220,6 +221,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0290-word-pattern](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0399-evaluate-division) |
@@ -255,6 +257,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0215-kth-largest-element-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0274-h-index) |
+| [0389-find-the-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -678,6 +681,7 @@ https://seanprashad.com/leetcode-patterns/
 | ------- |
 | [0136-single-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0389-find-the-difference) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## String Matching
 |  |
