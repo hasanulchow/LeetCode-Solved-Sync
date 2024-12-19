@@ -422,6 +422,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0112-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -522,6 +523,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0072-edit-distance](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0392-is-subsequence) |
@@ -606,6 +608,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0112-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0222-count-complete-tree-nodes) |
@@ -629,6 +632,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0112-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0222-count-complete-tree-nodes) |
