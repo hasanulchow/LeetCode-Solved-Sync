@@ -736,6 +736,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0607-sales-person](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0620-not-boring-movies) |
+| [1135-customers-who-bought-all-products](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1135-customers-who-bought-all-products) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1153-product-sales-analysis-i) |
 | [1155-product-sales-analysis-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1155-product-sales-analysis-iii) |
