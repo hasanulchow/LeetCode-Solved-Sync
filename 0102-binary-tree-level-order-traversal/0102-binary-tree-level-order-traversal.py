@@ -1,4 +1,4 @@
-from typing import List, Optional
+from typing import Optional, List
 
 # Definition for a binary tree node.
 # class TreeNode:
@@ -9,42 +9,39 @@ from typing import List, Optional
 
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+        """
+        Perform a level-order traversal (breadth-first search) on a binary tree.
+        :param root: TreeNode - The root of the binary tree.
+        :return: List[List[int]] - A list of lists where each sublist contains values of nodes at a specific level.
+        """
         # If the tree is empty, return an empty list
         if not root:
             return []
+
+        # Initialize the result list and a queue for traversal
+        ans = []  # Stores the final level-order traversal
+        queue = [root]  # Initialize the queue with the root node
         
-        # List to store the result of level order traversal
-        ans = []
-        
-        # Initialize a queue with the root node to begin the traversal
-        queue = [root]
-        
-        # Perform level order traversal (Breadth-First Search)
+        # Process each level of the tree
         while queue:
-            # Get the number of nodes at the current level
-            level_size = len(queue)
+            level_size = len(queue)  # Number of nodes at the current level
+            level = []  # List to store node values for the current level
             
-            # List to store node values at the current level
-            level = []
-            
-            # Process all nodes at the current level
+            # Process all nodes in the current level
             for i in range(level_size):
-                # Pop the leftmost node from the queue
+                # Remove the first node from the queue
                 node = queue.pop(0)
-                
-                # Add the node's value to the current level list
+                # Add its value to the current level list
                 level.append(node.val)
                 
-                # If the left child exists, add it to the queue
+                # Add the left child to the queue if it exists
                 if node.left:
                     queue.append(node.left)
-                
-                # If the right child exists, add it to the queue
+                # Add the right child to the queue if it exists
                 if node.right:
                     queue.append(node.right)
             
-            # After processing all nodes at the current level, add the level to the result
+            # Append the current level's values to the result list
             ans.append(level)
         
-        # Return the result list, which contains lists of node values for each level
         return ans
