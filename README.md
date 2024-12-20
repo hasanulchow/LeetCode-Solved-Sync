@@ -359,6 +359,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Matrix
 |  |
@@ -442,6 +443,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2201-valid-arrangement-of-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2201-valid-arrangement-of-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -630,6 +632,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -658,6 +661,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
