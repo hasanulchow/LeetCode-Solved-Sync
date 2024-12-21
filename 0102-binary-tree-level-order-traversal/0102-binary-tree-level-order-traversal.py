@@ -1,5 +1,3 @@
-from typing import Optional, List
-
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -8,11 +6,11 @@ from typing import Optional, List
 #         self.right = right
 
 class Solution:
-    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+    def levelOrder(self, root: TreeNode) -> list:
         """
         Perform a level-order traversal (breadth-first search) on a binary tree.
         :param root: TreeNode - The root of the binary tree.
-        :return: List[List[int]] - A list of lists where each sublist contains values of nodes at a specific level.
+        :return: list[list[int]] - A list of lists where each sublist contains values of nodes at a specific level.
         """
         # If the tree is empty, return an empty list
         if not root:
