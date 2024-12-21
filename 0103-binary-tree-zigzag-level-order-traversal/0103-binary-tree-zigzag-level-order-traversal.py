@@ -1,6 +1,3 @@
-from collections import deque
-from typing import Optional, List
-
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -9,7 +6,7 @@ from typing import Optional, List
 #         self.right = right
 
 class Solution:
-    def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+    def zigzagLevelOrder(self, root: TreeNode) -> List[List[int]]:
         """
         Perform a zigzag level order traversal of a binary tree.
         :param root: TreeNode - The root node of the binary tree.
@@ -19,9 +16,8 @@ class Solution:
         if root is None:
             return []
 
-        # Initialize a deque for level-order traversal
-        queue = deque()
-        queue.append(root)  # Start with the root node
+        # Use a list to simulate a queue for level-order traversal
+        queue = [root]  # Start with the root node
         
         # List to store the zigzag level order traversal
         ans = []
@@ -32,18 +28,16 @@ class Solution:
         # Perform level-order traversal
         while queue:
             level = []  # List to store nodes at the current level
-            n = len(queue)  # Number of nodes at the current level
+            next_level = []  # Queue for the next level
 
-            for i in range(n):
-                # Pop a node from the deque
-                node = queue.popleft()
-                level.append(node.val)  # Add its value to the current level list
+            for node in queue:
+                level.append(node.val)  # Add the current node's value
 
-                # Add left and right children to the deque if they exist
+                # Add children to the next level's queue
                 if node.left:
-                    queue.append(node.left)
+                    next_level.append(node.left)
                 if node.right:
-                    queue.append(node.right)
+                    next_level.append(node.right)
             
             # Reverse the level list if zigzag is True
             if zigzag:
@@ -51,6 +45,9 @@ class Solution:
             
             # Append the current level to the result
             ans.append(level)
+
+            # Update the queue with nodes of the next level
+            queue = next_level
 
             # Toggle the zigzag flag for the next level
             zigzag = not zigzag
