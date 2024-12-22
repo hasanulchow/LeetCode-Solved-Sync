@@ -787,6 +787,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0180-consecutive-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0180-consecutive-numbers) |
 | [0183-customers-who-never-order](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0570-managers-with-at-least-5-direct-reports) |
