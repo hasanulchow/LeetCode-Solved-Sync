@@ -227,6 +227,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0151-reverse-words-in-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0242-valid-anagram) |
@@ -404,6 +405,7 @@ https://seanprashad.com/leetcode-patterns/
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0212-word-search-ii) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1397-search-suggestions-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1397-search-suggestions-system) |
@@ -458,6 +460,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0199-binary-tree-right-side-view](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -635,6 +638,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0155-min-stack](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0969-number-of-recent-calls) |
