@@ -27,6 +27,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0088-merge-sorted-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0128-longest-consecutive-sequence) |
@@ -530,6 +531,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0004-median-of-two-sorted-arrays](https://github.com/HasanulRafi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sliding Window
@@ -663,6 +665,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0104-maximum-depth-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -697,6 +700,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0104-maximum-depth-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -723,6 +727,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0450-delete-node-in-a-bst) |
