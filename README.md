@@ -269,6 +269,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0208-implement-trie-prefix-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0290-word-pattern) |
@@ -866,6 +867,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0214-shortest-palindrome) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Monotonic Stack
 |  |
@@ -984,4 +986,12 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0149-max-points-on-a-line) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
