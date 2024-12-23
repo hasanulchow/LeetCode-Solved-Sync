@@ -28,6 +28,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0066-plus-one](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0085-maximal-rectangle) |
@@ -245,6 +246,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0071-simplify-path](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0125-valid-palindrome) |
@@ -417,6 +419,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0048-rotate-image](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0212-word-search-ii) |
@@ -821,6 +824,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0051-n-queens](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
