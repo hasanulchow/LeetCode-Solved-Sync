@@ -209,6 +209,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0010-regular-expression-matching](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0394-decode-string) |
@@ -226,6 +227,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0068-text-justification) |
@@ -340,6 +342,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -583,6 +586,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0010-regular-expression-matching](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0062-unique-paths) |
