@@ -28,6 +28,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0073-set-matrix-zeroes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -409,6 +410,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0048-rotate-image](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0289-game-of-life) |
@@ -596,6 +598,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0055-jump-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -647,6 +650,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0042-trapping-rain-water](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0155-min-stack) |
@@ -822,6 +826,7 @@ https://seanprashad.com/leetcode-patterns/
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0937-online-stock-span) |
