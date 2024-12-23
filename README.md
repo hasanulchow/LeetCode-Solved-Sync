@@ -18,6 +18,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0045-jump-game-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0056-merge-intervals) |
@@ -793,6 +794,7 @@ https://seanprashad.com/leetcode-patterns/
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0216-combination-sum-iii) |
