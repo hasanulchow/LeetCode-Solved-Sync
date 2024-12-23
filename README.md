@@ -51,6 +51,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0162-find-peak-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0198-house-robber) |
@@ -437,6 +438,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0079-word-search](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0289-game-of-life) |
 | [0787-sliding-puzzle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0787-sliding-puzzle) |
@@ -636,6 +638,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0124-binary-tree-maximum-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0140-word-break-ii) |
+| [0174-dungeon-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0338-counting-bits) |
