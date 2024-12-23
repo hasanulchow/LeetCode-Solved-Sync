@@ -230,6 +230,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0013-roman-to-integer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0032-longest-valid-parentheses) |
@@ -652,6 +653,7 @@ https://seanprashad.com/leetcode-patterns/
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0071-simplify-path) |
