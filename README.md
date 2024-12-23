@@ -45,6 +45,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0135-candy](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -143,6 +144,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0140-word-break-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0205-isomorphic-strings) |
@@ -205,6 +207,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0060-permutation-sequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0066-plus-one) |
+| [0149-max-points-on-a-line](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0202-happy-number) |
@@ -970,4 +973,8 @@ https://seanprashad.com/leetcode-patterns/
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0148-sort-list) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
