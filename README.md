@@ -795,6 +795,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0216-combination-sum-iii) |
