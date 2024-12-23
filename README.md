@@ -13,6 +13,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0027-remove-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0048-rotate-image) |
@@ -120,6 +121,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0076-minimum-window-substring) |
