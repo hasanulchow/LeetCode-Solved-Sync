@@ -164,6 +164,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0002-add-two-numbers](https://github.com/HasanulRafi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -419,6 +420,7 @@ https://seanprashad.com/leetcode-patterns/
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -531,6 +533,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HasanulRafi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -899,4 +902,8 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
