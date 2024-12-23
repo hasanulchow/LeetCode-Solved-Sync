@@ -9,41 +9,42 @@ class Solution:
     def minimumOperations(self, root: Optional[TreeNode]) -> int:
         from collections import deque
 
-        # Initialize the queue for level order traversal and the operation count
-        queue = deque([root])
-        operations = 0
-
-        while queue:
-            # For each level, collect the values of nodes
-            level_values = []
-            for _ in range(len(queue)):
-                node = queue.popleft()
-                level_values.append(node.val)
+        stack, cnt = [root], 0  # Initialize stack with root and operation count
+        while stack:
+            new_stack = []
+            for node in stack:
+                # Collect nodes for the next level
                 if node.left:
-                    queue.append(node.left)
+                    new_stack.append(node.left)
                 if node.right:
-                    queue.append(node.right)
+                    new_stack.append(node.right)
 
-            # Map each value to its current index for this level
-            index_map = {val: i for i, val in enumerate(level_values)}
+            # Prepare for processing the current level
+            stack = new_stack
+            if not stack:
+                break  # No more levels to process
 
-            # Sort the level values to know the target order
-            sorted_values = sorted(level_values)
+            # Create a mapping of node values to their current indices
+            dic_level = {node.val: i for i, node in enumerate(stack)}
 
-            # Minimum swaps needed to sort the level
-            visited = [False] * len(level_values)
-            for i in range(len(level_values)):
-                if visited[i] or index_map[sorted_values[i]] == i:
+            # Sort the node values to determine the target order
+            sort_level = sorted(dic_level.keys())
+
+            # Use a visited set to handle cycles in swapping
+            visited = set()
+            for i in range(len(sort_level)):
+                if sort_level[i] in visited or dic_level[sort_level[i]] == i:
                     continue
 
-                # Cycle detection for swapping
+                # Perform cycle detection and counting swaps
                 cycle_length, j = 0, i
-                while not visited[j]:
-                    visited[j] = True
-                    j = index_map[sorted_values[j]]
+                while sort_level[j] not in visited:
+                    visited.add(sort_level[j])
+                    j = dic_level[sort_level[j]]
                     cycle_length += 1
 
-                # Add the number of swaps for this cycle (cycle_length - 1)
-                operations += cycle_length - 1
+                # Add swaps needed for this cycle
+                if cycle_length > 1:
+                    cnt += cycle_length - 1
 
-        return operations
+        return cnt
