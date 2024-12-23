@@ -135,6 +135,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0076-minimum-window-substring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0133-clone-graph) |
@@ -253,6 +254,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0087-scramble-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0140-word-break-ii) |
@@ -394,6 +396,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0104-maximum-depth-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0126-word-ladder-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0133-clone-graph) |
@@ -837,6 +840,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0052-n-queens-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0079-word-search) |
+| [0126-word-ladder-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0216-combination-sum-iii) |
