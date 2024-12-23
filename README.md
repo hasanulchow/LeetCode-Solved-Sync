@@ -61,6 +61,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0216-combination-sum-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0220-contains-duplicate-iii) |
 | [0228-summary-ranges](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0274-h-index) |
@@ -312,6 +313,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0148-sort-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0215-kth-largest-element-in-an-array) |
+| [0220-contains-duplicate-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0389-find-the-difference) |
@@ -488,6 +490,7 @@ https://seanprashad.com/leetcode-patterns/
 ## Bucket Sort
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0220-contains-duplicate-iii) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
@@ -597,6 +600,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0076-minimum-window-substring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0220-contains-duplicate-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/HasanulRafi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
@@ -824,6 +828,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0220-contains-duplicate-iii) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2413-smallest-number-in-infinite-set) |
 | [2868-continuous-subarrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2868-continuous-subarrays) |
 ## Interactive
