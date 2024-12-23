@@ -241,6 +241,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0072-edit-distance](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0151-reverse-words-in-a-string) |
@@ -601,6 +602,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0072-edit-distance](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0124-binary-tree-maximum-path-sum) |
