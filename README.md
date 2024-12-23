@@ -12,6 +12,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0048-rotate-image) |
@@ -118,6 +119,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0076-minimum-window-substring) |
@@ -393,6 +395,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0073-set-matrix-zeroes) |
@@ -783,6 +786,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0037-sudoku-solver) |
 | [0077-combinations](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0216-combination-sum-iii) |
