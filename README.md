@@ -75,6 +75,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0289-game-of-life](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0289-game-of-life) |
 | [0312-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0321-create-maximum-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0321-create-maximum-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0334-increasing-triplet-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
@@ -380,6 +381,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0202-happy-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0295-find-median-from-data-stream) |
+| [0321-create-maximum-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0321-create-maximum-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0443-string-compression) |
@@ -406,6 +408,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0135-candy) |
+| [0321-create-maximum-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0321-create-maximum-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -757,6 +760,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0155-min-stack](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0224-basic-calculator) |
+| [0321-create-maximum-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0739-daily-temperatures) |
@@ -948,6 +952,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0042-trapping-rain-water](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0085-maximal-rectangle) |
+| [0321-create-maximum-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0321-create-maximum-number) |
 | [0739-daily-temperatures](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0937-online-stock-span) |
