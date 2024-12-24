@@ -292,6 +292,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0273-integer-to-english-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0389-find-the-difference) |
@@ -435,6 +436,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0207-course-schedule](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -551,6 +553,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0226-invert-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -765,6 +768,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0208-implement-trie-prefix-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0969-number-of-recent-calls) |
@@ -798,6 +802,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0226-invert-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -835,6 +840,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0226-invert-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0530-minimum-absolute-difference-in-bst) |
