@@ -86,6 +86,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0399-evaluate-division](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -179,6 +180,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0290-word-pattern](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0336-palindrome-pairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0433-minimum-genetic-mutation) |
@@ -243,6 +245,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0282-expression-add-operators](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0282-expression-add-operators) |
 | [0335-self-crossing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0335-self-crossing) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1236-n-th-tribonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1585-the-kth-factor-of-n) |
@@ -808,6 +811,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0937-online-stock-span](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2413-smallest-number-in-infinite-set) |
@@ -997,6 +1001,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Database
 |  |
 | ------- |
