@@ -89,6 +89,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0391-perfect-rectangle) |
 | [0399-evaluate-division](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0399-evaluate-division) |
+| [0403-frog-jump](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0502-ipo) |
@@ -733,6 +734,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0338-counting-bits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0747-min-cost-climbing-stairs) |
