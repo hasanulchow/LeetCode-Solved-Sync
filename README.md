@@ -74,6 +74,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0283-move-zeroes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0289-game-of-life) |
 | [0312-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0312-burst-balloons) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0334-increasing-triplet-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
@@ -607,6 +608,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0222-count-complete-tree-nodes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0374-guess-number-higher-or-lower](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0374-guess-number-higher-or-lower) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0907-koko-eating-bananas) |
@@ -633,6 +635,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0169-majority-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0772-construct-quad-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0954-maximum-sum-circular-subarray) |
 ## Sliding Window
@@ -887,6 +890,7 @@ https://seanprashad.com/leetcode-patterns/
 | ------- |
 | [0218-the-skyline-problem](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0220-contains-duplicate-iii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2413-smallest-number-in-infinite-set) |
 | [2868-continuous-subarrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2868-continuous-subarrays) |
 ## Interactive
@@ -1042,17 +1046,20 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Geometry
 |  |
 | ------- |
