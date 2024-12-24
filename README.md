@@ -77,6 +77,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0321-create-maximum-number) |
 | [0327-count-of-range-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0327-count-of-range-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0334-increasing-triplet-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
@@ -445,6 +446,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0226-invert-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0301-remove-invalid-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -478,6 +480,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0174-dungeon-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0289-game-of-life) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0772-construct-quad-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0772-construct-quad-tree) |
 | [0787-sliding-puzzle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0945-snakes-and-ladders) |
@@ -562,6 +565,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -584,6 +588,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0133-clone-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0871-keys-and-rooms) |
@@ -704,6 +709,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0198-house-robber](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0233-number-of-digit-one) |
 | [0312-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0312-burst-balloons) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0435-non-overlapping-intervals) |
@@ -909,6 +915,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0140-word-break-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1236-n-th-tribonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1236-n-th-tribonacci-number) |
 ## Eulerian Circuit
 |  |
@@ -1051,6 +1058,7 @@ https://seanprashad.com/leetcode-patterns/
 | ------- |
 | [0207-course-schedule](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Binary Indexed Tree
 |  |
 | ------- |
