@@ -82,6 +82,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0334-increasing-triplet-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0336-palindrome-pairs) |
+| [0354-russian-doll-envelopes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0399-evaluate-division) |
@@ -347,6 +348,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0242-valid-anagram](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0295-find-median-from-data-stream) |
+| [0354-russian-doll-envelopes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0354-russian-doll-envelopes) |
 | [0389-find-the-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -628,6 +630,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0354-russian-doll-envelopes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0354-russian-doll-envelopes) |
 | [0374-guess-number-higher-or-lower](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0374-guess-number-higher-or-lower) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0907-koko-eating-bananas) |
@@ -720,6 +723,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0312-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0338-counting-bits) |
+| [0354-russian-doll-envelopes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
