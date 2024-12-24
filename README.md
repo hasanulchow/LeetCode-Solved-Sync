@@ -333,6 +333,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0220-contains-duplicate-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -374,6 +375,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0189-rotate-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0443-string-compression) |
@@ -494,6 +496,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0215-kth-largest-element-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -761,6 +764,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0173-binary-search-tree-iterator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0969-number-of-recent-calls) |
@@ -768,6 +772,7 @@ https://seanprashad.com/leetcode-patterns/
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0969-number-of-recent-calls) |
 ## Tree
