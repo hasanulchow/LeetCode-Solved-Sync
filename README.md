@@ -627,6 +627,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0222-count-complete-tree-nodes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0222-count-complete-tree-nodes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0374-guess-number-higher-or-lower](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0374-guess-number-higher-or-lower) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0907-koko-eating-bananas) |
@@ -797,6 +798,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0211-design-add-and-search-words-data-structure](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0969-number-of-recent-calls) |
@@ -913,6 +915,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0220-contains-duplicate-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2413-smallest-number-in-infinite-set) |
 | [2868-continuous-subarrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2868-continuous-subarrays) |
 ## Interactive
