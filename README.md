@@ -79,6 +79,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0735-asteroid-collision](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0747-min-cost-climbing-stairs) |
+| [0772-construct-quad-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0772-construct-quad-tree) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0787-sliding-puzzle) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
@@ -446,6 +447,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0174-dungeon-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0289-game-of-life) |
+| [0772-construct-quad-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0772-construct-quad-tree) |
 | [0787-sliding-puzzle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
@@ -595,6 +597,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0169-majority-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0218-the-skyline-problem) |
+| [0772-construct-quad-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0772-construct-quad-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -759,6 +762,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0450-delete-node-in-a-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0772-construct-quad-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0772-construct-quad-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
