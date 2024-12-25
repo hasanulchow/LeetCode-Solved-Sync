@@ -105,6 +105,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0403-frog-jump](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -837,6 +838,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0392-is-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0458-poor-pigs) |
