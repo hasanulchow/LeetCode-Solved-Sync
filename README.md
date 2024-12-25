@@ -86,6 +86,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0240-search-a-2d-matrix-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0312-burst-balloons) |
@@ -472,6 +473,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0202-happy-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0321-create-maximum-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0345-reverse-vowels-of-a-string) |
@@ -741,6 +743,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0209-minimum-size-subarray-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0327-count-of-range-sum) |
@@ -1152,6 +1155,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0191-number-of-1-bits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0389-find-the-difference) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
