@@ -336,6 +336,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0125-valid-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0140-word-break-ii) |
@@ -809,6 +810,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0140-word-break-ii) |
@@ -1082,6 +1084,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0078-subsets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0216-combination-sum-iii) |
