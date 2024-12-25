@@ -95,6 +95,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0334-increasing-triplet-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -206,6 +207,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0242-valid-anagram](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0383-ransom-note) |
@@ -408,6 +410,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0242-valid-anagram](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0354-russian-doll-envelopes) |
 | [0389-find-the-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0435-non-overlapping-intervals) |
@@ -598,6 +601,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0218-the-skyline-problem](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0420-strong-password-checker) |
@@ -623,11 +627,13 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
@@ -754,6 +760,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0218-the-skyline-problem](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0327-count-of-range-sum) |
+| [0347-top-k-frequent-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0493-reverse-pairs) |
 | [0772-construct-quad-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0954-maximum-sum-circular-subarray) |
@@ -1053,6 +1060,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0347-top-k-frequent-elements) |
 ## Ordered Set
 |  |
 | ------- |
