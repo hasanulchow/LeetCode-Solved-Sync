@@ -267,6 +267,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0479-largest-palindrome-product](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0483-smallest-good-base) |
 | [0489-kth-smallest-instructions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0489-kth-smallest-instructions) |
+| [0564-find-the-closest-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0564-find-the-closest-palindrome) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1236-n-th-tribonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1585-the-kth-factor-of-n) |
@@ -344,6 +345,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0466-count-the-repetitions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0466-count-the-repetitions) |
 | [0488-zuma-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0514-freedom-trail) |
+| [0564-find-the-closest-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0564-find-the-closest-palindrome) |
 | [0649-dota2-senate](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/HasanulRafi/LeetCode/tree/master/0768-partition-labels) |
