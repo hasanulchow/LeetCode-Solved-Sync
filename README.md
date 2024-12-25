@@ -685,6 +685,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -1008,6 +1009,7 @@ https://seanprashad.com/leetcode-patterns/
 | ------- |
 | [0067-add-binary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0389-find-the-difference) |
