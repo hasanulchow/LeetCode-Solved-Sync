@@ -244,6 +244,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0060-permutation-sequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0189-rotate-array) |
@@ -294,6 +295,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0049-group-anagrams](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0072-edit-distance) |
@@ -792,6 +794,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0735-asteroid-collision) |
@@ -1003,6 +1006,7 @@ https://seanprashad.com/leetcode-patterns/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0338-counting-bits) |
