@@ -97,6 +97,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0480-sliding-window-median](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0480-sliding-window-median) |
+| [0489-kth-smallest-instructions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0489-kth-smallest-instructions) |
 | [0502-ipo](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/HasanulRafi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -262,6 +263,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0458-poor-pigs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0458-poor-pigs) |
 | [0479-largest-palindrome-product](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0483-smallest-good-base) |
+| [0489-kth-smallest-instructions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0489-kth-smallest-instructions) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1236-n-th-tribonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1585-the-kth-factor-of-n) |
@@ -776,6 +778,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0458-poor-pigs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0458-poor-pigs) |
 | [0466-count-the-repetitions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0466-count-the-repetitions) |
 | [0488-zuma-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0488-zuma-game) |
+| [0489-kth-smallest-instructions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0489-kth-smallest-instructions) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0806-domino-and-tromino-tiling) |
@@ -1000,6 +1003,7 @@ https://seanprashad.com/leetcode-patterns/
 | ------- |
 | [0062-unique-paths](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0062-unique-paths) |
 | [0458-poor-pigs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0458-poor-pigs) |
+| [0489-kth-smallest-instructions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0489-kth-smallest-instructions) |
 ## Backtracking
 |  |
 | ------- |
