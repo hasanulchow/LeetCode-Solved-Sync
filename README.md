@@ -81,6 +81,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0228-summary-ranges](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0289-game-of-life) |
@@ -576,6 +577,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0200-number-of-islands](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -731,6 +733,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0327-count-of-range-sum) |
@@ -769,6 +772,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0191-number-of-1-bits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0218-the-skyline-problem) |
+| [0240-search-a-2d-matrix-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0347-top-k-frequent-elements) |
