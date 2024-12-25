@@ -76,6 +76,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0274-h-index](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0321-create-maximum-number) |
@@ -690,6 +691,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0352-data-stream-as-disjoint-intervals) |
@@ -797,6 +799,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0233-number-of-digit-one) |
+| [0300-longest-increasing-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0329-longest-increasing-path-in-a-matrix) |
