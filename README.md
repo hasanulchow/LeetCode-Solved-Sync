@@ -526,6 +526,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0211-design-add-and-search-words-data-structure](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0336-palindrome-pairs) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1397-search-suggestions-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1397-search-suggestions-system) |
 ## Heap (Priority Queue)
