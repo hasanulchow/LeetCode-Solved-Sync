@@ -796,6 +796,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0514-freedom-trail](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0514-freedom-trail) |
 | [0546-remove-boxes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0552-student-attendance-record-ii) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0806-domino-and-tromino-tiling) |
