@@ -79,6 +79,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0312-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0321-create-maximum-number) |
+| [0322-coin-change](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0330-patching-array) |
@@ -502,6 +503,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0226-invert-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0407-trapping-rain-water-ii) |
@@ -796,6 +798,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0198-house-robber](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0233-number-of-digit-one) |
 | [0312-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0354-russian-doll-envelopes) |
