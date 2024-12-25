@@ -258,6 +258,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0458-poor-pigs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0458-poor-pigs) |
+| [0479-largest-palindrome-product](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0479-largest-palindrome-product) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1236-n-th-tribonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1585-the-kth-factor-of-n) |
@@ -1168,4 +1169,8 @@ https://seanprashad.com/leetcode-patterns/
 | ------- |
 | [0218-the-skyline-problem](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0218-the-skyline-problem) |
 | [0391-perfect-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0391-perfect-rectangle) |
+## Enumeration
+|  |
+| ------- |
+| [0479-largest-palindrome-product](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0479-largest-palindrome-product) |
 <!---LeetCode Topics End-->
