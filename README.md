@@ -115,6 +115,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0502-ipo](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0517-super-washing-machines) |
 | [0546-remove-boxes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0546-remove-boxes) |
+| [0560-subarray-sum-equals-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0560-subarray-sum-equals-k) |
 | [0587-erect-the-fence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0587-erect-the-fence) |
 | [0605-can-place-flowers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/HasanulRafi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -213,6 +214,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0433-minimum-genetic-mutation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0433-minimum-genetic-mutation) |
 | [0460-lfu-cache](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0480-sliding-window-median) |
+| [0560-subarray-sum-equals-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/HasanulRafi/LeetCode/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
@@ -786,6 +788,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0238-product-of-array-except-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0238-product-of-array-except-self) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/HasanulRafi/LeetCode/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
