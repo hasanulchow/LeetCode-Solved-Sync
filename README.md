@@ -277,6 +277,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0224-basic-calculator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0282-expression-add-operators) |
 | [0335-self-crossing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0335-self-crossing) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
@@ -513,6 +514,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0207-course-schedule](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0322-coin-change) |
@@ -825,6 +827,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0198-house-robber](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0233-number-of-digit-one) |
+| [0279-perfect-squares](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0322-coin-change) |
