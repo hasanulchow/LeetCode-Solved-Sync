@@ -41,6 +41,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -788,6 +789,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0085-maximal-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
