@@ -197,6 +197,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0139-word-break](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0169-majority-element) |
@@ -252,6 +253,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0206-reverse-linked-list) |
@@ -449,6 +451,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0088-merge-sorted-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0167-two-sum-ii-input-array-is-sorted) |
