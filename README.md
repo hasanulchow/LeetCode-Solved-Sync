@@ -73,6 +73,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0218-the-skyline-problem](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0220-contains-duplicate-iii) |
+| [0221-maximal-square](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0239-sliding-window-maximum) |
@@ -548,6 +549,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0130-surrounded-regions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -808,6 +810,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0174-dungeon-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0312-burst-balloons) |
