@@ -1,25 +1,16 @@
 class Solution:
     def partitionLabels(self, s: str) -> List[int]:
-        last ={}
-        res = []
-        for i in range(len(s)):
-            last[s[i]] = i
-        
-        start = 0
-        end = last[s[start]]
-        i=1
-        
-        while(1):
-            while( i < end):
-                if last[s[i]]  > end:
-                    end = last[s[i]]
-                i += 1
-            res.append(end-start+1)
-            if end < len(s)-1:
-                start = end+1
-                end = last[s[start]]
-                i = start + 1
-            else:
-                break
-        
-        return res
+        L = len(s)
+        last = {s[i]: i for i in range(L)} # last appearance of the letter
+        i, ans = 0, []
+        while i < L:
+            end, j = last[s[i]], i + 1
+            while j < end: # validation of the part [i, end]
+                if last[s[j]] > end:
+                    end = last[s[j]] # extend the part
+                j += 1
+           
+            ans.append(end - i + 1)
+            i = end + 1
+            
+        return ans
