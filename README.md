@@ -423,6 +423,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0591-tag-validator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0591-tag-validator) |
 | [0639-decode-ways-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0639-decode-ways-ii) |
 | [0649-dota2-senate](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0649-dota2-senate) |
+| [0664-strange-printer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0664-strange-printer) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/HasanulRafi/LeetCode/tree/master/0768-partition-labels) |
@@ -967,6 +968,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0629-k-inverse-pairs-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0629-k-inverse-pairs-array) |
 | [0639-decode-ways-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0639-decode-ways-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0646-maximum-length-of-pair-chain) |
+| [0664-strange-printer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
