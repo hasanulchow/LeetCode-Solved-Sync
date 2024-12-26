@@ -129,6 +129,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0560-subarray-sum-equals-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0560-subarray-sum-equals-k) |
 | [0587-erect-the-fence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0587-erect-the-fence) |
 | [0605-can-place-flowers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0605-can-place-flowers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/HasanulRafi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -243,6 +244,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0460-lfu-cache](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0560-subarray-sum-equals-k) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/HasanulRafi/LeetCode/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
@@ -465,6 +467,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0436-find-right-interval](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0502-ipo) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0780-max-chunks-to-make-sorted) |
@@ -547,6 +550,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0502-ipo](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0517-super-washing-machines) |
 | [0605-can-place-flowers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0605-can-place-flowers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -673,6 +677,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0420-strong-password-checker](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0420-strong-password-checker) |
 | [0480-sliding-window-median](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0502-ipo) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1397-search-suggestions-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1397-search-suggestions-system) |
@@ -863,6 +868,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0239-sliding-window-maximum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0480-sliding-window-median) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/HasanulRafi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
