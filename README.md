@@ -137,6 +137,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0679-24-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0691-stickers-to-spell-word) |
+| [0699-falling-squares](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0699-falling-squares) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/HasanulRafi/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0735-asteroid-collision) |
@@ -1221,6 +1222,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0352-data-stream-as-disjoint-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0493-reverse-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0493-reverse-pairs) |
+| [0699-falling-squares](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0699-falling-squares) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2413-smallest-number-in-infinite-set) |
 | [2868-continuous-subarrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2868-continuous-subarrays) |
 ## Interactive
@@ -1422,6 +1424,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0327-count-of-range-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0699-falling-squares](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0699-falling-squares) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Merge Sort
 |  |
