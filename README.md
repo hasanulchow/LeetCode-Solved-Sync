@@ -392,6 +392,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0466-count-the-repetitions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0466-count-the-repetitions) |
 | [0488-zuma-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0516-longest-palindromic-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0564-find-the-closest-palindrome) |
 | [0591-tag-validator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0591-tag-validator) |
 | [0649-dota2-senate](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0649-dota2-senate) |
@@ -888,6 +889,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0489-kth-smallest-instructions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0489-kth-smallest-instructions) |
 | [0494-target-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0516-longest-palindromic-subsequence) |
 | [0546-remove-boxes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0552-student-attendance-record-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0600-non-negative-integers-without-consecutive-ones) |
