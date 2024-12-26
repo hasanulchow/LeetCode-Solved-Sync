@@ -861,6 +861,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0085-maximal-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0118-pascals-triangle) |
@@ -1011,6 +1012,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0101-symmetric-tree) |
@@ -1053,6 +1055,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0101-symmetric-tree) |
@@ -1091,6 +1094,7 @@ https://seanprashad.com/leetcode-patterns/
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0173-binary-search-tree-iterator) |
@@ -1166,6 +1170,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0077-combinations](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0079-word-search) |
+| [0095-unique-binary-search-trees-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0140-word-break-ii) |
