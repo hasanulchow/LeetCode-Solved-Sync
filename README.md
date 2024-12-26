@@ -129,6 +129,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0587-erect-the-fence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0587-erect-the-fence) |
 | [0605-can-place-flowers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/HasanulRafi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/HasanulRafi/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0735-asteroid-collision) |
@@ -915,6 +916,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0552-student-attendance-record-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0552-student-attendance-record-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0629-k-inverse-pairs-array) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0747-min-cost-climbing-stairs) |
@@ -1325,6 +1327,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
@@ -1333,6 +1336,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Merge Sort
 |  |
