@@ -602,6 +602,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0547-number-of-provinces](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0685-redundant-connection-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0685-redundant-connection-ii) |
 | [0787-sliding-puzzle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0787-sliding-puzzle) |
 | [0813-all-paths-from-source-to-target](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0820-find-eventual-safe-states) |
@@ -755,6 +756,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0543-diameter-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0685-redundant-connection-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0685-redundant-connection-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0820-find-eventual-safe-states) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
@@ -780,6 +782,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0547-number-of-provinces) |
+| [0685-redundant-connection-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0685-redundant-connection-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0871-keys-and-rooms) |
@@ -1190,6 +1193,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0200-number-of-islands](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0547-number-of-provinces) |
+| [0685-redundant-connection-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0685-redundant-connection-ii) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Shortest Path
