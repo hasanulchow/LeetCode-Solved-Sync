@@ -383,6 +383,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0058-length-of-last-word) |
