@@ -407,6 +407,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0591-tag-validator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0591-tag-validator) |
 | [0649-dota2-senate](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/HasanulRafi/LeetCode/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
 | [0974-reorder-data-in-log-files](https://github.com/HasanulRafi/LeetCode/tree/master/0974-reorder-data-in-log-files) |
@@ -914,6 +915,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0552-student-attendance-record-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0552-student-attendance-record-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0629-k-inverse-pairs-array) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0806-domino-and-tromino-tiling) |
