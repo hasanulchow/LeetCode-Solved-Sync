@@ -404,6 +404,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0079-word-search](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0125-valid-palindrome) |
@@ -1302,6 +1303,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0079-word-search](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0131-palindrome-partitioning) |
