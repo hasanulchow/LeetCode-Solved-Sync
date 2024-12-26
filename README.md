@@ -136,6 +136,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0675-cut-off-trees-for-golf-event](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0691-stickers-to-spell-word](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0691-stickers-to-spell-word) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/HasanulRafi/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0735-asteroid-collision) |
@@ -429,6 +430,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0639-decode-ways-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0639-decode-ways-ii) |
 | [0649-dota2-senate](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0649-dota2-senate) |
 | [0664-strange-printer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0664-strange-printer) |
+| [0691-stickers-to-spell-word](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/HasanulRafi/LeetCode/tree/master/0768-partition-labels) |
@@ -983,6 +985,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0664-strange-printer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0691-stickers-to-spell-word](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0691-stickers-to-spell-word) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0747-min-cost-climbing-stairs) |
@@ -1269,6 +1272,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0301-remove-invalid-parentheses](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0679-24-game) |
+| [0691-stickers-to-spell-word](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0691-stickers-to-spell-word) |
 | [0813-all-paths-from-source-to-target](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0813-all-paths-from-source-to-target) |
 ## Bit Manipulation
 |  |
@@ -1284,6 +1288,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0287-find-the-duplicate-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0389-find-the-difference) |
+| [0691-stickers-to-spell-word](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0691-stickers-to-spell-word) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## String Matching
 |  |
@@ -1449,4 +1454,8 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0479-largest-palindrome-product) |
+## Bitmask
+|  |
+| ------- |
+| [0691-stickers-to-spell-word](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0691-stickers-to-spell-word) |
 <!---LeetCode Topics End-->
