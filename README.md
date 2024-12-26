@@ -1084,6 +1084,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0460-lfu-cache) |
+| [0715-range-module](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0715-range-module) |
 | [0937-online-stock-span](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2413-smallest-number-in-infinite-set) |
@@ -1223,6 +1224,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0493-reverse-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0493-reverse-pairs) |
 | [0699-falling-squares](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0699-falling-squares) |
+| [0715-range-module](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0715-range-module) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2413-smallest-number-in-infinite-set) |
 | [2868-continuous-subarrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2868-continuous-subarrays) |
 ## Interactive
@@ -1425,6 +1427,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0493-reverse-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0699-falling-squares](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0699-falling-squares) |
+| [0715-range-module](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0715-range-module) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Merge Sort
 |  |
