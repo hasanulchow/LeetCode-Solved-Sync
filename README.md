@@ -330,6 +330,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0489-kth-smallest-instructions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0489-kth-smallest-instructions) |
 | [0564-find-the-closest-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0587-erect-the-fence) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1013-fibonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1236-n-th-tribonacci-number) |
@@ -818,6 +819,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0436-find-right-interval](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0436-find-right-interval) |
 | [0483-smallest-good-base](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0493-reverse-pairs) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
