@@ -160,6 +160,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1392-find-the-difference-of-two-arrays](https://github.com/HasanulRafi/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -636,6 +637,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0967-minimum-falling-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1972-rotating-the-box](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1972-rotating-the-box) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2089-maximum-matrix-sum) |
@@ -814,6 +816,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
 | [1397-search-suggestions-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2164-two-best-non-overlapping-events](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2164-two-best-non-overlapping-events) |
