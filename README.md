@@ -588,6 +588,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0945-snakes-and-ladders](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -748,6 +749,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0547-number-of-provinces](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0871-keys-and-rooms) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1300-critical-connections-in-a-network](https://github.com/HasanulRafi/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2201-valid-arrangement-of-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2201-valid-arrangement-of-pairs) |
