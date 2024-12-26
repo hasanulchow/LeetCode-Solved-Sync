@@ -114,6 +114,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0410-split-array-largest-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0436-find-right-interval) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0474-ones-and-zeroes) |
@@ -461,6 +462,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0354-russian-doll-envelopes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0354-russian-doll-envelopes) |
 | [0389-find-the-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0502-ipo) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0646-maximum-length-of-pair-chain) |
@@ -806,6 +808,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0374-guess-number-higher-or-lower](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0410-split-array-largest-sum) |
+| [0436-find-right-interval](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0436-find-right-interval) |
 | [0483-smallest-good-base](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0493-reverse-pairs) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0745-find-smallest-letter-greater-than-target) |
