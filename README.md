@@ -172,6 +172,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0954-maximum-sum-circular-subarray](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0954-maximum-sum-circular-subarray) |
 | [0958-sort-array-by-parity-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0959-3sum-with-multiplicity) |
+| [0960-minimize-malware-spread](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0960-minimize-malware-spread) |
 | [0967-minimum-falling-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0967-minimum-falling-path-sum) |
 | [0974-reorder-data-in-log-files](https://github.com/HasanulRafi/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1025-minimum-cost-for-tickets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1025-minimum-cost-for-tickets) |
@@ -297,6 +298,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0952-word-subsets) |
 | [0959-3sum-with-multiplicity](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0959-3sum-with-multiplicity) |
+| [0960-minimize-malware-spread](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0960-minimize-malware-spread) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/HasanulRafi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -716,6 +718,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0871-keys-and-rooms](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0945-snakes-and-ladders) |
 | [0955-complete-binary-tree-inserter](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0955-complete-binary-tree-inserter) |
+| [0960-minimize-malware-spread](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0960-minimize-malware-spread) |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -885,6 +888,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0904-leaf-similar-trees) |
+| [0960-minimize-malware-spread](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0960-minimize-malware-spread) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/HasanulRafi/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
@@ -914,6 +918,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0813-all-paths-from-source-to-target](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0871-keys-and-rooms) |
+| [0960-minimize-malware-spread](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0960-minimize-malware-spread) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1300-critical-connections-in-a-network](https://github.com/HasanulRafi/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
@@ -1379,6 +1384,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0547-number-of-provinces](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0685-redundant-connection-ii) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
+| [0960-minimize-malware-spread](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0960-minimize-malware-spread) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2125-gcd-sort-of-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2125-gcd-sort-of-an-array) |
