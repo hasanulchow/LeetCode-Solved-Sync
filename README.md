@@ -195,6 +195,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0999-regions-cut-by-slashes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0999-regions-cut-by-slashes) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1002-maximum-width-ramp](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
@@ -1309,6 +1310,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0943-sum-of-subarray-minimums](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0983-validate-stack-sequences) |
+| [1002-maximum-width-ramp](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
@@ -1597,6 +1599,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0780-max-chunks-to-make-sorted](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0943-sum-of-subarray-minimums) |
+| [1002-maximum-width-ramp](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
