@@ -509,6 +509,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0953-reverse-only-letters](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0961-long-pressed-name) |
+| [0962-flip-string-to-monotone-increasing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0974-reorder-data-in-log-files](https://github.com/HasanulRafi/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -1149,6 +1150,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0943-sum-of-subarray-minimums](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0954-maximum-sum-circular-subarray) |
 | [0956-number-of-music-playlists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0956-number-of-music-playlists) |
+| [0962-flip-string-to-monotone-increasing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0967-minimum-falling-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1025-minimum-cost-for-tickets) |
