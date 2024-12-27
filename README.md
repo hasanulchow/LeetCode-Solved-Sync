@@ -164,6 +164,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0944-smallest-range-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0944-smallest-range-i) |
 | [0945-snakes-and-ladders](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0945-snakes-and-ladders) |
 | [0946-smallest-range-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0946-smallest-range-ii) |
+| [0947-online-election](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0947-online-election) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0967-minimum-falling-path-sum) |
 | [0974-reorder-data-in-log-files](https://github.com/HasanulRafi/LeetCode/tree/master/0974-reorder-data-in-log-files) |
@@ -286,6 +287,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0768-partition-labels](https://github.com/HasanulRafi/LeetCode/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
+| [0947-online-election](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0947-online-election) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/HasanulRafi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -941,6 +943,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0792-binary-search](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0907-koko-eating-bananas) |
+| [0947-online-election](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0947-online-election) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
 | [1397-search-suggestions-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1397-search-suggestions-system) |
@@ -1224,6 +1227,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0460-lfu-cache](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0460-lfu-cache) |
 | [0715-range-module](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0715-range-module) |
 | [0937-online-stock-span](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0937-online-stock-span) |
+| [0947-online-election](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0947-online-election) |
 | [0969-number-of-recent-calls](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0969-number-of-recent-calls) |
 | [2207-sequentially-ordinal-rank-tracker](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2207-sequentially-ordinal-rank-tracker) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2413-smallest-number-in-infinite-set) |
