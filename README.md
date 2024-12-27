@@ -185,6 +185,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0983-validate-stack-sequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0983-validate-stack-sequences) |
 | [0985-bag-of-tokens](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0985-bag-of-tokens) |
 | [0986-largest-time-for-given-digits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0986-largest-time-for-given-digits) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1025-minimum-cost-for-tickets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
@@ -592,6 +593,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0976-minimum-area-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0985-bag-of-tokens) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1397-search-suggestions-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/HasanulRafi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -1215,6 +1217,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0969-number-of-recent-calls) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1622-max-value-of-equation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1622-max-value-of-equation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2868-continuous-subarrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2868-continuous-subarrays) |
@@ -1238,6 +1241,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0289-game-of-life](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0983-validate-stack-sequences) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2232-adding-spaces-to-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
