@@ -192,6 +192,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [0993-tallest-billboard](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0993-tallest-billboard) |
 | [0994-prison-cells-after-n-days](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0994-prison-cells-after-n-days) |
+| [0999-regions-cut-by-slashes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0999-regions-cut-by-slashes) |
 | [1025-minimum-cost-for-tickets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
@@ -324,6 +325,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0990-verifying-an-alien-dictionary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0990-verifying-an-alien-dictionary) |
 | [0991-array-of-doubled-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0991-array-of-doubled-pairs) |
 | [0994-prison-cells-after-n-days](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0994-prison-cells-after-n-days) |
+| [0999-regions-cut-by-slashes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0999-regions-cut-by-slashes) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/HasanulRafi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -767,6 +769,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0955-complete-binary-tree-inserter](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0955-complete-binary-tree-inserter) |
 | [0960-minimize-malware-spread](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0960-minimize-malware-spread) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -813,6 +816,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0787-sliding-puzzle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0967-minimum-falling-path-sum) |
+| [0999-regions-cut-by-slashes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -940,6 +944,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0960-minimize-malware-spread](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0988-flip-equivalent-binary-trees) |
+| [0999-regions-cut-by-slashes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0999-regions-cut-by-slashes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/HasanulRafi/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
@@ -1452,6 +1457,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0960-minimize-malware-spread](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0989-largest-component-size-by-common-factor](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0989-largest-component-size-by-common-factor) |
+| [0999-regions-cut-by-slashes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0999-regions-cut-by-slashes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2125-gcd-sort-of-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2125-gcd-sort-of-an-array) |
