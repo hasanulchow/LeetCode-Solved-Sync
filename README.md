@@ -187,6 +187,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0986-largest-time-for-given-digits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0986-largest-time-for-given-digits) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0989-largest-component-size-by-common-factor](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0989-largest-component-size-by-common-factor) |
+| [0990-verifying-an-alien-dictionary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0990-verifying-an-alien-dictionary) |
 | [1025-minimum-cost-for-tickets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
@@ -316,6 +317,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0976-minimum-area-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0976-minimum-area-rectangle) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0989-largest-component-size-by-common-factor](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0989-largest-component-size-by-common-factor) |
+| [0990-verifying-an-alien-dictionary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0990-verifying-an-alien-dictionary) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/HasanulRafi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -534,6 +536,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0974-reorder-data-in-log-files](https://github.com/HasanulRafi/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [0980-find-the-shortest-superstring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0980-find-the-shortest-superstring) |
 | [0986-largest-time-for-given-digits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0986-largest-time-for-given-digits) |
+| [0990-verifying-an-alien-dictionary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0990-verifying-an-alien-dictionary) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1250-longest-common-subsequence) |
