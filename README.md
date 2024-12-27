@@ -205,6 +205,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2176-parallel-courses-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2176-parallel-courses-iii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2189-maximum-path-quality-of-a-graph) |
+| [2193-count-fertile-pyramids-in-a-land](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2232-adding-spaces-to-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2262-solving-questions-with-brainpower) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -724,6 +725,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2193-count-fertile-pyramids-in-a-land](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2428-equal-row-and-column-pairs) |
@@ -1096,6 +1098,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2164-two-best-non-overlapping-events](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2164-two-best-non-overlapping-events) |
 | [2176-parallel-courses-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2176-parallel-courses-iii) |
 | [2184-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2184-check-if-an-original-string-exists-given-two-encoded-strings) |
+| [2193-count-fertile-pyramids-in-a-land](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2262-solving-questions-with-brainpower](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2562-count-ways-to-build-good-strings) |
 ## Queue
