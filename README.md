@@ -168,6 +168,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0948-sort-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0951-partition-array-into-disjoint-intervals) |
+| [0952-word-subsets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0967-minimum-falling-path-sum) |
 | [0974-reorder-data-in-log-files](https://github.com/HasanulRafi/LeetCode/tree/master/0974-reorder-data-in-log-files) |
@@ -292,6 +293,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0947-online-election](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0947-online-election) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0952-word-subsets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0952-word-subsets) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/HasanulRafi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -497,6 +499,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0768-partition-labels](https://github.com/HasanulRafi/LeetCode/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
+| [0952-word-subsets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0952-word-subsets) |
 | [0974-reorder-data-in-log-files](https://github.com/HasanulRafi/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
