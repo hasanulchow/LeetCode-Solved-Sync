@@ -310,6 +310,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0965-unique-email-addresses](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0966-binary-subarrays-with-sum) |
 | [0976-minimum-area-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0976-minimum-area-rectangle) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/HasanulRafi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -911,6 +912,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0871-keys-and-rooms](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0904-leaf-similar-trees) |
 | [0960-minimize-malware-spread](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0960-minimize-malware-spread) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/HasanulRafi/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
@@ -941,6 +943,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0820-find-eventual-safe-states](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0871-keys-and-rooms) |
 | [0960-minimize-malware-spread](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0960-minimize-malware-spread) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1300-critical-connections-in-a-network](https://github.com/HasanulRafi/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
@@ -1413,6 +1416,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0685-redundant-connection-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0685-redundant-connection-ii) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0960-minimize-malware-spread](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0960-minimize-malware-spread) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2125-gcd-sort-of-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2125-gcd-sort-of-an-array) |
