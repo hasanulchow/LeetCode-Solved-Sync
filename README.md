@@ -181,6 +181,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1622-max-value-of-equation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1622-max-value-of-equation) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1755-defuse-the-bomb](https://github.com/HasanulRafi/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HasanulRafi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1833-find-the-highest-altitude) |
@@ -647,6 +648,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1492-time-needed-to-inform-all-employees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -685,6 +687,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1972-rotating-the-box](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1972-rotating-the-box) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2089-maximum-matrix-sum) |
@@ -801,6 +804,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1492-time-needed-to-inform-all-employees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2201-valid-arrangement-of-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -1507,4 +1511,8 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0691-stickers-to-spell-word](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0691-stickers-to-spell-word) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
