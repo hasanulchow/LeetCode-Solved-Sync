@@ -210,6 +210,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2232-adding-spaces-to-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2232-adding-spaces-to-a-string) |
 | [2234-minimum-operations-to-make-the-array-k-increasing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2234-minimum-operations-to-make-the-array-k-increasing) |
+| [2241-recover-the-original-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2241-recover-the-original-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2262-solving-questions-with-brainpower) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -293,6 +294,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
+| [2241-recover-the-original-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2241-recover-the-original-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2300-construct-string-with-repeat-limit) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2428-equal-row-and-column-pairs) |
@@ -545,6 +547,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2164-two-best-non-overlapping-events](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2213-find-all-people-with-secret](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2213-find-all-people-with-secret) |
+| [2241-recover-the-original-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2241-recover-the-original-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -598,6 +601,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2241-recover-the-original-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2241-recover-the-original-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -1611,6 +1615,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2241-recover-the-original-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2241-recover-the-original-array) |
 ## Bitmask
 |  |
 | ------- |
