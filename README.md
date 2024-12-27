@@ -924,6 +924,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0904-leaf-similar-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0904-leaf-similar-trees) |
 | [0960-minimize-malware-spread](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0988-flip-equivalent-binary-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/HasanulRafi/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
@@ -1355,6 +1356,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0783-search-in-a-binary-search-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0904-leaf-similar-trees) |
 | [0955-complete-binary-tree-inserter](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0955-complete-binary-tree-inserter) |
+| [0988-flip-equivalent-binary-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -1401,6 +1403,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0783-search-in-a-binary-search-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0904-leaf-similar-trees) |
 | [0955-complete-binary-tree-inserter](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0955-complete-binary-tree-inserter) |
+| [0988-flip-equivalent-binary-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
