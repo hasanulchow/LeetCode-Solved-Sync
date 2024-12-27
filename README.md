@@ -190,6 +190,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0990-verifying-an-alien-dictionary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0990-verifying-an-alien-dictionary) |
 | [0991-array-of-doubled-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0991-array-of-doubled-pairs) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [0993-tallest-billboard](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0993-tallest-billboard) |
 | [1025-minimum-cost-for-tickets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
@@ -1199,6 +1200,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0962-flip-string-to-monotone-increasing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0967-minimum-falling-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0967-minimum-falling-path-sum) |
 | [0980-find-the-shortest-superstring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0980-find-the-shortest-superstring) |
+| [0993-tallest-billboard](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0993-tallest-billboard) |
 | [1013-fibonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1063-best-sightseeing-pair) |
