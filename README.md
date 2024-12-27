@@ -175,6 +175,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0960-minimize-malware-spread](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0960-minimize-malware-spread) |
 | [0963-three-equal-parts](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0963-three-equal-parts) |
 | [0965-unique-email-addresses](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0965-unique-email-addresses) |
+| [0966-binary-subarrays-with-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0967-minimum-falling-path-sum) |
 | [0974-reorder-data-in-log-files](https://github.com/HasanulRafi/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1025-minimum-cost-for-tickets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1025-minimum-cost-for-tickets) |
@@ -302,6 +303,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0959-3sum-with-multiplicity](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0959-3sum-with-multiplicity) |
 | [0960-minimize-malware-spread](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0960-minimize-malware-spread) |
 | [0965-unique-email-addresses](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0965-unique-email-addresses) |
+| [0966-binary-subarrays-with-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0966-binary-subarrays-with-sum) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/HasanulRafi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -1043,6 +1045,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/HasanulRafi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HasanulRafi/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1066,6 +1069,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0560-subarray-sum-equals-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/HasanulRafi/LeetCode/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1833-find-the-highest-altitude) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
