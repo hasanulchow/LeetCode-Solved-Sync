@@ -191,6 +191,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0991-array-of-doubled-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0991-array-of-doubled-pairs) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [0993-tallest-billboard](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0993-tallest-billboard) |
+| [0994-prison-cells-after-n-days](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0994-prison-cells-after-n-days) |
 | [1025-minimum-cost-for-tickets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
@@ -322,6 +323,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0989-largest-component-size-by-common-factor](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0989-largest-component-size-by-common-factor) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0990-verifying-an-alien-dictionary) |
 | [0991-array-of-doubled-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0991-array-of-doubled-pairs) |
+| [0994-prison-cells-after-n-days](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0994-prison-cells-after-n-days) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/HasanulRafi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -419,6 +421,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0963-three-equal-parts](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0963-three-equal-parts) |
 | [0976-minimum-area-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0976-minimum-area-rectangle) |
 | [0989-largest-component-size-by-common-factor](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0989-largest-component-size-by-common-factor) |
+| [0994-prison-cells-after-n-days](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0994-prison-cells-after-n-days) |
 | [1013-fibonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1236-n-th-tribonacci-number) |
@@ -1559,6 +1562,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0389-find-the-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0389-find-the-difference) |
 | [0691-stickers-to-spell-word](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0691-stickers-to-spell-word) |
 | [0980-find-the-shortest-superstring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0980-find-the-shortest-superstring) |
+| [0994-prison-cells-after-n-days](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0994-prison-cells-after-n-days) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2105-the-number-of-good-subsets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2105-the-number-of-good-subsets) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
