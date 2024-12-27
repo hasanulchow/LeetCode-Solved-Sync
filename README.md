@@ -207,6 +207,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2189-maximum-path-quality-of-a-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2200-stamping-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2200-stamping-the-grid) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2232-adding-spaces-to-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2262-solving-questions-with-brainpower) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -937,6 +938,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -987,6 +989,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1622-max-value-of-equation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1622-max-value-of-equation) |
 | [1755-defuse-the-bomb](https://github.com/HasanulRafi/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/HasanulRafi/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2868-continuous-subarrays) |
@@ -1007,6 +1010,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1833-find-the-highest-altitude](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1833-find-the-highest-altitude) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2200-stamping-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2200-stamping-the-grid) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3427-special-array-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3427-special-array-ii) |
 ## Dynamic Programming
 |  |
