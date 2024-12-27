@@ -173,6 +173,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0958-sort-array-by-parity-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0959-3sum-with-multiplicity) |
 | [0960-minimize-malware-spread](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0960-minimize-malware-spread) |
+| [0963-three-equal-parts](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0963-three-equal-parts) |
 | [0967-minimum-falling-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0967-minimum-falling-path-sum) |
 | [0974-reorder-data-in-log-files](https://github.com/HasanulRafi/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1025-minimum-cost-for-tickets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1025-minimum-cost-for-tickets) |
@@ -393,6 +394,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0946-smallest-range-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0946-smallest-range-ii) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0956-number-of-music-playlists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0956-number-of-music-playlists) |
+| [0963-three-equal-parts](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0963-three-equal-parts) |
 | [1013-fibonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1236-n-th-tribonacci-number) |
