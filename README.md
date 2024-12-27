@@ -502,6 +502,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0952-word-subsets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0953-reverse-only-letters) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0974-reorder-data-in-log-files](https://github.com/HasanulRafi/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -655,6 +656,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0768-partition-labels](https://github.com/HasanulRafi/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0780-max-chunks-to-make-sorted) |
 | [0946-smallest-range-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0946-smallest-range-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1917-maximum-average-pass-ratio](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2089-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1222,6 +1224,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0780-max-chunks-to-make-sorted](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0943-sum-of-subarray-minimums) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
