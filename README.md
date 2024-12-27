@@ -376,6 +376,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2105-the-number-of-good-subsets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2105-the-number-of-good-subsets) |
 | [2125-gcd-sort-of-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2125-gcd-sort-of-an-array) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2147-the-score-of-students-solving-math-expression) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
@@ -1593,6 +1594,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0479-largest-palindrome-product](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0479-largest-palindrome-product) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Bitmask
 |  |
 | ------- |
