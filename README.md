@@ -193,6 +193,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0993-tallest-billboard](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0993-tallest-billboard) |
 | [0994-prison-cells-after-n-days](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0994-prison-cells-after-n-days) |
 | [0999-regions-cut-by-slashes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0999-regions-cut-by-slashes) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
@@ -547,6 +548,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0986-largest-time-for-given-digits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0986-largest-time-for-given-digits) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0990-verifying-an-alien-dictionary) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1250-longest-common-subsequence) |
@@ -1210,6 +1212,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0967-minimum-falling-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0967-minimum-falling-path-sum) |
 | [0980-find-the-shortest-superstring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0980-find-the-shortest-superstring) |
 | [0993-tallest-billboard](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0993-tallest-billboard) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1063-best-sightseeing-pair) |
