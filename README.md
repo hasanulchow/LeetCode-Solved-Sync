@@ -183,6 +183,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0980-find-the-shortest-superstring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0980-find-the-shortest-superstring) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0983-validate-stack-sequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0983-validate-stack-sequences) |
+| [0985-bag-of-tokens](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0985-bag-of-tokens) |
 | [1025-minimum-cost-for-tickets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
@@ -588,6 +589,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0974-reorder-data-in-log-files](https://github.com/HasanulRafi/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [0976-minimum-area-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0985-bag-of-tokens](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0985-bag-of-tokens) |
 | [1397-search-suggestions-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/HasanulRafi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -645,6 +647,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0958-sort-array-by-parity-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0959-3sum-with-multiplicity) |
 | [0961-long-pressed-name](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0961-long-pressed-name) |
+| [0985-bag-of-tokens](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0985-bag-of-tokens) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HasanulRafi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -688,6 +691,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0946-smallest-range-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0946-smallest-range-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0985-bag-of-tokens](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0985-bag-of-tokens) |
 | [1917-maximum-average-pass-ratio](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2089-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2140-longest-subsequence-repeated-k-times) |
