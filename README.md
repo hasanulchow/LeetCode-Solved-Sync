@@ -204,6 +204,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2176-parallel-courses-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2176-parallel-courses-iii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2232-adding-spaces-to-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2262-solving-questions-with-brainpower) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -865,6 +866,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2176-parallel-courses-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2176-parallel-courses-iii) |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3189-find-champion-ii) |
@@ -1389,6 +1391,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0813-all-paths-from-source-to-target](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0813-all-paths-from-source-to-target) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2189-maximum-path-quality-of-a-graph) |
 ## Bit Manipulation
 |  |
 | ------- |
