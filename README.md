@@ -206,6 +206,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2193-count-fertile-pyramids-in-a-land) |
+| [2200-stamping-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2200-stamping-the-grid) |
 | [2232-adding-spaces-to-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2262-solving-questions-with-brainpower) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -627,6 +628,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2200-stamping-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2200-stamping-the-grid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2300-construct-string-with-repeat-limit) |
 | [2487-optimal-partition-of-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2487-optimal-partition-of-string) |
 | [2636-maximum-subsequence-score](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2636-maximum-subsequence-score) |
@@ -726,6 +728,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2089-maximum-matrix-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2193-count-fertile-pyramids-in-a-land) |
+| [2200-stamping-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2200-stamping-the-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2428-equal-row-and-column-pairs) |
@@ -996,6 +999,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1833-find-the-highest-altitude) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
+| [2200-stamping-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2200-stamping-the-grid) |
 | [3427-special-array-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3427-special-array-ii) |
 ## Dynamic Programming
 |  |
