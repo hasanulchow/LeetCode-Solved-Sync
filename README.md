@@ -203,6 +203,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2164-two-best-non-overlapping-events](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2164-two-best-non-overlapping-events) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2176-parallel-courses-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2176-parallel-courses-iii) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2232-adding-spaces-to-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2262-solving-questions-with-brainpower) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -534,6 +535,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1798-max-number-of-k-sum-pairs](https://github.com/HasanulRafi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2125-gcd-sort-of-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2125-gcd-sort-of-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2164-two-best-non-overlapping-events) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -621,6 +623,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2089-maximum-matrix-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2089-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2300-construct-string-with-repeat-limit) |
 | [2487-optimal-partition-of-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2487-optimal-partition-of-string) |
 | [2636-maximum-subsequence-score](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2636-maximum-subsequence-score) |
@@ -917,6 +920,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2164-two-best-non-overlapping-events) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -1099,6 +1103,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0954-maximum-sum-circular-subarray](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0969-number-of-recent-calls) |
 | [1622-max-value-of-equation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1622-max-value-of-equation) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2868-continuous-subarrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -1107,6 +1112,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0954-maximum-sum-circular-subarray) |
 | [1622-max-value-of-equation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1622-max-value-of-equation) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2868-continuous-subarrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2868-continuous-subarrays) |
 ## Simulation
 |  |
