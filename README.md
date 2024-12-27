@@ -178,6 +178,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0966-binary-subarrays-with-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0967-minimum-falling-path-sum) |
 | [0974-reorder-data-in-log-files](https://github.com/HasanulRafi/LeetCode/tree/master/0974-reorder-data-in-log-files) |
+| [0976-minimum-area-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0976-minimum-area-rectangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
@@ -304,6 +305,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0960-minimize-malware-spread](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0960-minimize-malware-spread) |
 | [0965-unique-email-addresses](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0966-binary-subarrays-with-sum) |
+| [0976-minimum-area-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0976-minimum-area-rectangle) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/HasanulRafi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -399,6 +401,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0956-number-of-music-playlists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0956-number-of-music-playlists) |
 | [0963-three-equal-parts](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0963-three-equal-parts) |
+| [0976-minimum-area-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0976-minimum-area-rectangle) |
 | [1013-fibonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1236-n-th-tribonacci-number) |
@@ -577,6 +580,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0958-sort-array-by-parity-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0959-3sum-with-multiplicity) |
 | [0974-reorder-data-in-log-files](https://github.com/HasanulRafi/LeetCode/tree/master/0974-reorder-data-in-log-files) |
+| [0976-minimum-area-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0976-minimum-area-rectangle) |
 | [1397-search-suggestions-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/HasanulRafi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -1670,6 +1674,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0149-max-points-on-a-line](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0335-self-crossing) |
 | [0587-erect-the-fence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0587-erect-the-fence) |
+| [0976-minimum-area-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0976-minimum-area-rectangle) |
 ## Rolling Hash
 |  |
 | ------- |
