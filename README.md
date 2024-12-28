@@ -611,6 +611,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3588-count-the-number-of-winning-sequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3588-count-the-number-of-winning-sequences) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3617-find-the-original-typed-string-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -1182,6 +1183,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2200-stamping-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2200-stamping-the-grid) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3427-special-array-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3427-special-array-ii) |
+| [3618-find-the-original-typed-string-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3618-find-the-original-typed-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1300,6 +1302,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3587-maximum-points-tourist-can-earn](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3588-count-the-number-of-winning-sequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3588-count-the-number-of-winning-sequences) |
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
+| [3618-find-the-original-typed-string-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3618-find-the-original-typed-string-ii) |
 ## Queue
 |  |
 | ------- |
