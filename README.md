@@ -478,6 +478,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3626-smallest-divisible-digit-product-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3631-count-k-reducible-numbers-less-than-n](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
@@ -631,6 +632,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3618-find-the-original-typed-string-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3631-count-k-reducible-numbers-less-than-n](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3636-check-balanced-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3636-check-balanced-string) |
 ## Sorting
@@ -1345,6 +1347,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3618-find-the-original-typed-string-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3631-count-k-reducible-numbers-less-than-n](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3646-sum-of-good-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3646-sum-of-good-subsequences) |
 ## Queue
 |  |
@@ -1641,6 +1644,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0489-kth-smallest-instructions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0489-kth-smallest-instructions) |
 | [0956-number-of-music-playlists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0956-number-of-music-playlists) |
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
+| [3631-count-k-reducible-numbers-less-than-n](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 ## Backtracking
 |  |
 | ------- |
