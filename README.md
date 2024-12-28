@@ -283,6 +283,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3643-zero-array-transformation-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3643-zero-array-transformation-ii) |
 | [3646-sum-of-good-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3646-sum-of-good-subsequences) |
 | [3647-zero-array-transformation-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3647-zero-array-transformation-iii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
 ## Hash Table
 |  |
@@ -918,6 +919,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3587-maximum-points-tourist-can-earn](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Trie
 |  |
 | ------- |
@@ -1366,6 +1368,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3631-count-k-reducible-numbers-less-than-n](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3646-sum-of-good-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3646-sum-of-good-subsequences) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Queue
 |  |
 | ------- |
