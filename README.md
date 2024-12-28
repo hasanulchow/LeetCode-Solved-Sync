@@ -444,6 +444,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -463,6 +464,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0394-decode-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
 |  |
 | ------- |
@@ -1603,6 +1605,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2105-the-number-of-good-subsets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2105-the-number-of-good-subsets) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String Matching
 |  |
 | ------- |
