@@ -470,6 +470,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Recursion
@@ -1870,6 +1871,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2202-sum-of-k-mirror-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2241-recover-the-original-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2241-recover-the-original-array) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Bitmask
 |  |
 | ------- |
