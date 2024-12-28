@@ -277,6 +277,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3646-sum-of-good-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3646-sum-of-good-subsequences) |
 ## Hash Table
@@ -1224,6 +1225,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3427-special-array-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3427-special-array-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3639-zero-array-transformation-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Dynamic Programming
 |  |
