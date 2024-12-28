@@ -478,6 +478,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2202-sum-of-k-mirror-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2222-abbreviating-the-product-of-a-range](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2222-abbreviating-the-product-of-a-range) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
+| [2955-account-balance-after-rounded-purchase](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3600-find-the-k-th-character-in-string-game-i) |
