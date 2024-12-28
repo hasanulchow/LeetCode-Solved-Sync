@@ -265,6 +265,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Hash Table
 |  |
@@ -360,6 +361,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3578-construct-2d-grid-matching-graph-layout) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Linked List
 |  |
 | ------- |
@@ -908,6 +910,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2868-continuous-subarrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1140,6 +1143,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
