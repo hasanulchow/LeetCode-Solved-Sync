@@ -258,6 +258,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3427-special-array-ii) |
+| [3487-find-maximum-removals-from-source-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -355,6 +356,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3487-find-maximum-removals-from-source-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3578-construct-2d-grid-matching-graph-layout) |
@@ -588,6 +590,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/HasanulRafi/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3487-find-maximum-removals-from-source-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
@@ -705,6 +708,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2414-move-pieces-to-obtain-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3487-find-maximum-removals-from-source-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -1265,6 +1269,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2562-count-ways-to-build-good-strings) |
+| [3487-find-maximum-removals-from-source-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Queue
 |  |
