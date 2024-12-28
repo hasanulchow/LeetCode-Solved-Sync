@@ -266,6 +266,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3603-check-if-dfs-strings-are-palindromes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
@@ -365,6 +366,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3603-check-if-dfs-strings-are-palindromes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Linked List
 |  |
@@ -606,6 +608,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3588-count-the-number-of-winning-sequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3588-count-the-number-of-winning-sequences) |
+| [3603-check-if-dfs-strings-are-palindromes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 ## Sorting
 |  |
 | ------- |
@@ -1007,6 +1010,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3058-maximum-number-of-k-divisible-components](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3603-check-if-dfs-strings-are-palindromes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 ## Graph
 |  |
 | ------- |
@@ -1450,6 +1454,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3058-maximum-number-of-k-divisible-components](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3603-check-if-dfs-strings-are-palindromes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1814,6 +1819,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0214-shortest-palindrome) |
+| [3603-check-if-dfs-strings-are-palindromes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 ## Line Sweep
 |  |
 | ------- |
