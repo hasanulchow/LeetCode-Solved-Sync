@@ -274,6 +274,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -893,6 +894,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Trie
 |  |
 | ------- |
@@ -943,6 +945,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1064,6 +1067,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -1566,6 +1570,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2171-second-minimum-time-to-reach-destination](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Quickselect
 |  |
 | ------- |
