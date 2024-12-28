@@ -278,6 +278,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3646-sum-of-good-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3646-sum-of-good-subsequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -378,6 +379,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3646-sum-of-good-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3646-sum-of-good-subsequences) |
 ## Linked List
 |  |
 | ------- |
@@ -1343,6 +1345,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3618-find-the-original-typed-string-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3646-sum-of-good-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3646-sum-of-good-subsequences) |
 ## Queue
 |  |
 | ------- |
