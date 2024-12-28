@@ -622,6 +622,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3618-find-the-original-typed-string-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3636-check-balanced-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3636-check-balanced-string) |
 ## Sorting
 |  |
 | ------- |
