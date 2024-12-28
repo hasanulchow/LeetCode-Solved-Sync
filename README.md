@@ -265,6 +265,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+| [3587-maximum-points-tourist-can-earn](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
@@ -877,6 +878,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2428-equal-row-and-column-pairs) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3578-construct-2d-grid-matching-graph-layout) |
+| [3587-maximum-points-tourist-can-earn](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3587-maximum-points-tourist-can-earn) |
 ## Trie
 |  |
 | ------- |
@@ -1295,6 +1297,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2562-count-ways-to-build-good-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2562-count-ways-to-build-good-strings) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3587-maximum-points-tourist-can-earn](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3588-count-the-number-of-winning-sequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3588-count-the-number-of-winning-sequences) |
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 ## Queue
