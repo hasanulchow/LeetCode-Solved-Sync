@@ -262,6 +262,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3578-construct-2d-grid-matching-graph-layout](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Hash Table
 |  |
@@ -355,6 +356,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3578-construct-2d-grid-matching-graph-layout](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 ## Linked List
 |  |
 | ------- |
@@ -852,6 +854,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2428-equal-row-and-column-pairs) |
+| [3578-construct-2d-grid-matching-graph-layout](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 ## Trie
 |  |
 | ------- |
@@ -1014,6 +1017,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3189-find-champion-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3578-construct-2d-grid-matching-graph-layout](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 ## Biconnected Component
 |  |
 | ------- |
