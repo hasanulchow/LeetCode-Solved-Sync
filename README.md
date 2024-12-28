@@ -475,6 +475,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3626-smallest-divisible-digit-product-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -627,6 +628,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3618-find-the-original-typed-string-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3636-check-balanced-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3636-check-balanced-string) |
 ## Sorting
 |  |
@@ -791,6 +793,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1666,6 +1669,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2189-maximum-path-quality-of-a-graph) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1805,6 +1809,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Iterator
 |  |
 | ------- |
