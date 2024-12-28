@@ -609,6 +609,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3588-count-the-number-of-winning-sequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3588-count-the-number-of-winning-sequences) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3603-check-if-dfs-strings-are-palindromes) |
+| [3617-find-the-original-typed-string-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3617-find-the-original-typed-string-i) |
 ## Sorting
 |  |
 | ------- |
