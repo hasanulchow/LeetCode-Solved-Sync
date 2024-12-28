@@ -273,6 +273,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -891,6 +892,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2428-equal-row-and-column-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2428-equal-row-and-column-pairs) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3587-maximum-points-tourist-can-earn) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Trie
 |  |
 | ------- |
@@ -940,6 +942,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1060,6 +1063,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3578-construct-2d-grid-matching-graph-layout) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -1561,6 +1565,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0399-evaluate-division](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0399-evaluate-division) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Quickselect
 |  |
 | ------- |
