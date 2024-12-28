@@ -284,6 +284,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3646-sum-of-good-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3646-sum-of-good-subsequences) |
 | [3647-zero-array-transformation-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3654-minimum-array-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3654-minimum-array-sum) |
 | [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
 ## Hash Table
 |  |
@@ -1369,6 +1370,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3631-count-k-reducible-numbers-less-than-n](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3646-sum-of-good-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3646-sum-of-good-subsequences) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3654-minimum-array-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3654-minimum-array-sum) |
 ## Queue
 |  |
 | ------- |
