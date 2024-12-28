@@ -266,6 +266,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3587-maximum-points-tourist-can-earn) |
+| [3591-shift-distance-between-two-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3591-shift-distance-between-two-strings) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3603-check-if-dfs-strings-are-palindromes) |
@@ -631,6 +632,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3588-count-the-number-of-winning-sequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3588-count-the-number-of-winning-sequences) |
+| [3591-shift-distance-between-two-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3591-shift-distance-between-two-strings) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3617-find-the-original-typed-string-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3618-find-the-original-typed-string-ii) |
@@ -1229,6 +1231,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2200-stamping-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2200-stamping-the-grid) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3427-special-array-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3427-special-array-ii) |
+| [3591-shift-distance-between-two-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3591-shift-distance-between-two-strings) |
 | [3618-find-the-original-typed-string-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3639-zero-array-transformation-i) |
