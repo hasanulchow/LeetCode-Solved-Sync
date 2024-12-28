@@ -282,6 +282,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3643-zero-array-transformation-ii) |
 | [3646-sum-of-good-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3646-sum-of-good-subsequences) |
+| [3647-zero-array-transformation-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3647-zero-array-transformation-iii) |
 | [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
 ## Hash Table
 |  |
@@ -699,6 +700,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3647-zero-array-transformation-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -805,6 +807,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3635-smallest-divisible-digit-product-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3647-zero-array-transformation-iii) |
 | [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
 ## Breadth-First Search
 |  |
@@ -966,6 +969,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3647-zero-array-transformation-iii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1237,6 +1241,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3639-zero-array-transformation-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3647-zero-array-transformation-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
