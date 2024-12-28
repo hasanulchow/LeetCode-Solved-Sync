@@ -596,6 +596,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3487-find-maximum-removals-from-source-string) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
@@ -1327,6 +1328,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2692-take-gifts-from-the-richest-pile](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
