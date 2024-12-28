@@ -266,6 +266,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Hash Table
@@ -457,6 +458,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Recursion
 |  |
 | ------- |
@@ -764,6 +766,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1750,6 +1753,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0989-largest-component-size-by-common-factor](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0989-largest-component-size-by-common-factor) |
 | [1585-the-kth-factor-of-n](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1585-the-kth-factor-of-n) |
 | [2125-gcd-sort-of-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2125-gcd-sort-of-an-array) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Iterator
 |  |
 | ------- |
