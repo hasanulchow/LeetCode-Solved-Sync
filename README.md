@@ -1061,6 +1061,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3603-check-if-dfs-strings-are-palindromes) |
+| [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
 ## Graph
 |  |
 | ------- |
@@ -1371,6 +1372,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3646-sum-of-good-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3646-sum-of-good-subsequences) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3654-minimum-array-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3654-minimum-array-sum) |
+| [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
 ## Queue
 |  |
 | ------- |
@@ -1531,6 +1533,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3603-check-if-dfs-strings-are-palindromes) |
+| [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
 ## Binary Tree
 |  |
 | ------- |
