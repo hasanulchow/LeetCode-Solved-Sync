@@ -451,6 +451,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 ## Recursion
 |  |
 | ------- |
@@ -1271,6 +1272,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2562-count-ways-to-build-good-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2562-count-ways-to-build-good-strings) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 ## Queue
 |  |
 | ------- |
@@ -1559,6 +1561,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0458-poor-pigs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0458-poor-pigs) |
 | [0489-kth-smallest-instructions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0489-kth-smallest-instructions) |
 | [0956-number-of-music-playlists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0956-number-of-music-playlists) |
+| [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 ## Backtracking
 |  |
 | ------- |
