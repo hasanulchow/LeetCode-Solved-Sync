@@ -598,6 +598,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3588-count-the-number-of-winning-sequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3588-count-the-number-of-winning-sequences) |
 ## Sorting
 |  |
 | ------- |
@@ -1278,6 +1279,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2562-count-ways-to-build-good-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2562-count-ways-to-build-good-strings) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3588-count-the-number-of-winning-sequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3588-count-the-number-of-winning-sequences) |
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 ## Queue
 |  |
