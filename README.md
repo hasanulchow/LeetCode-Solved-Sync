@@ -876,6 +876,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -1066,6 +1067,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
 ## Graph
 |  |
@@ -1539,6 +1541,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
 ## Binary Tree
 |  |
