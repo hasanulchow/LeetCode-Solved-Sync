@@ -269,6 +269,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3591-shift-distance-between-two-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3591-shift-distance-between-two-strings) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
@@ -382,6 +383,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -997,6 +999,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Depth-First Search
@@ -1921,6 +1924,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2202-sum-of-k-mirror-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2241-recover-the-original-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2241-recover-the-original-array) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Bitmask
 |  |
