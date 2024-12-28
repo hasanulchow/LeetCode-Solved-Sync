@@ -372,6 +372,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -468,6 +469,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -619,6 +621,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3617-find-the-original-typed-string-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -961,6 +964,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2300-construct-string-with-repeat-limit](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1313,6 +1317,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3618-find-the-original-typed-string-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Queue
 |  |
 | ------- |
