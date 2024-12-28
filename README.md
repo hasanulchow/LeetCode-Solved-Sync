@@ -285,6 +285,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3646-sum-of-good-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3646-sum-of-good-subsequences) |
 | [3647-zero-array-transformation-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3654-minimum-array-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3654-minimum-array-sum) |
 | [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
 ## Hash Table
@@ -1378,6 +1379,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3631-count-k-reducible-numbers-less-than-n](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3646-sum-of-good-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3646-sum-of-good-subsequences) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3654-minimum-array-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3654-minimum-array-sum) |
 | [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
 ## Queue
@@ -1714,6 +1716,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3635-smallest-divisible-digit-product-ii) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1741,6 +1744,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3649-minimum-time-to-break-locks-i) |
 ## String Matching
 |  |
 | ------- |
@@ -1939,6 +1943,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0980-find-the-shortest-superstring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0980-find-the-shortest-superstring) |
 | [2105-the-number-of-good-subsets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2105-the-number-of-good-subsets) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Strongly Connected Component
 |  |
 | ------- |
