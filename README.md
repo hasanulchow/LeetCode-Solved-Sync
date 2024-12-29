@@ -198,6 +198,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1002-maximum-width-ramp](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1002-maximum-width-ramp) |
 | [1009-pancake-sorting](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1009-pancake-sorting) |
 | [1014-k-closest-points-to-origin](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1014-k-closest-points-to-origin) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
@@ -362,6 +363,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0994-prison-cells-after-n-days](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0994-prison-cells-after-n-days) |
 | [0999-regions-cut-by-slashes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0999-regions-cut-by-slashes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/HasanulRafi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -1267,6 +1269,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0724-find-pivot-index](https://github.com/HasanulRafi/LeetCode/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1833-find-the-highest-altitude) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
