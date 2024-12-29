@@ -491,6 +491,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1013-fibonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1014-k-closest-points-to-origin) |
 | [1031-add-to-array-form-of-integer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1031-add-to-array-form-of-integer) |
+| [1033-broken-calculator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1033-broken-calculator) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1236-n-th-tribonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1585-the-kth-factor-of-n) |
@@ -837,6 +838,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1009-pancake-sorting](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1009-pancake-sorting) |
 | [1026-string-without-aaa-or-bbb](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1026-string-without-aaa-or-bbb) |
+| [1033-broken-calculator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1033-broken-calculator) |
 | [1917-maximum-average-pass-ratio](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2089-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2140-longest-subsequence-repeated-k-times) |
