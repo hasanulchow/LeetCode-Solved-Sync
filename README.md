@@ -507,6 +507,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1031-add-to-array-form-of-integer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1031-add-to-array-form-of-integer) |
 | [1033-broken-calculator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1033-broken-calculator) |
 | [1048-clumsy-factorial](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1048-clumsy-factorial) |
+| [1057-numbers-with-repeated-digits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1057-numbers-with-repeated-digits) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1236-n-th-tribonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1585-the-kth-factor-of-n) |
@@ -1433,6 +1434,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1017-odd-even-jump](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1017-odd-even-jump) |
 | [1025-minimum-cost-for-tickets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1025-minimum-cost-for-tickets) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1042-minimum-cost-to-merge-stones) |
+| [1057-numbers-with-repeated-digits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1057-numbers-with-repeated-digits) |
 | [1063-best-sightseeing-pair](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1105-uncrossed-lines) |
