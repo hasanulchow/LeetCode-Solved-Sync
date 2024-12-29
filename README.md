@@ -222,6 +222,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1063-best-sightseeing-pair) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1072-next-greater-node-in-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1072-next-greater-node-in-linked-list) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1105-uncrossed-lines) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -451,6 +452,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0328-odd-even-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0460-lfu-cache) |
+| [1072-next-greater-node-in-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -1563,6 +1565,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1048-clumsy-factorial](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1048-clumsy-factorial) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1072-next-greater-node-in-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
@@ -1904,6 +1907,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1002-maximum-width-ramp](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1002-maximum-width-ramp) |
 | [1017-odd-even-jump](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1017-odd-even-jump) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1072-next-greater-node-in-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
