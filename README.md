@@ -203,6 +203,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1022-unique-paths-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1022-unique-paths-iii) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1025-minimum-cost-for-tickets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1025-minimum-cost-for-tickets) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1063-best-sightseeing-pair) |
@@ -1459,6 +1460,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0735-asteroid-collision](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0983-validate-stack-sequences) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2232-adding-spaces-to-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
