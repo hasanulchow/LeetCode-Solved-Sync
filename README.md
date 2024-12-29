@@ -657,6 +657,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1032-satisfiability-of-equality-equations](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1032-satisfiability-of-equality-equations) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1397-search-suggestions-system) |
