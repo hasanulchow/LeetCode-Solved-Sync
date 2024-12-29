@@ -219,6 +219,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1105-uncrossed-lines) |
@@ -859,6 +860,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1033-broken-calculator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1033-broken-calculator) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1917-maximum-average-pass-ratio](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2089-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2140-longest-subsequence-repeated-k-times) |
