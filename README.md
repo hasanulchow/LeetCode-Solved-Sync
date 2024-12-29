@@ -511,6 +511,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1048-clumsy-factorial](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1048-clumsy-factorial) |
 | [1057-numbers-with-repeated-digits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1057-numbers-with-repeated-digits) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1070-convert-to-base-2](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1070-convert-to-base-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1236-n-th-tribonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1585-the-kth-factor-of-n) |
