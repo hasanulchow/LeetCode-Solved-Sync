@@ -474,6 +474,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0989-largest-component-size-by-common-factor](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0989-largest-component-size-by-common-factor) |
 | [0994-prison-cells-after-n-days](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0994-prison-cells-after-n-days) |
 | [1004-least-operators-to-express-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1004-least-operators-to-express-number) |
+| [1012-equal-rational-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1012-equal-rational-numbers) |
 | [1013-fibonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1236-n-th-tribonacci-number) |
@@ -614,6 +615,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0990-verifying-an-alien-dictionary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0990-verifying-an-alien-dictionary) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1000-delete-columns-to-make-sorted-iii) |
+| [1012-equal-rational-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1012-equal-rational-numbers) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1250-longest-common-subsequence) |
