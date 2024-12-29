@@ -1067,6 +1067,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0999-regions-cut-by-slashes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0999-regions-cut-by-slashes) |
 | [1005-univalued-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1005-univalued-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1008-binary-tree-cameras) |
+| [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/HasanulRafi/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
@@ -1555,6 +1556,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0998-check-completeness-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1005-univalued-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1008-binary-tree-cameras) |
+| [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -1610,6 +1612,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0998-check-completeness-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1005-univalued-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1008-binary-tree-cameras) |
+| [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
