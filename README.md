@@ -197,6 +197,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1002-maximum-width-ramp](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1002-maximum-width-ramp) |
 | [1009-pancake-sorting](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1009-pancake-sorting) |
+| [1014-k-closest-points-to-origin](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
@@ -476,6 +477,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1004-least-operators-to-express-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1004-least-operators-to-express-number) |
 | [1012-equal-rational-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1012-equal-rational-numbers) |
 | [1013-fibonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1236-n-th-tribonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1585-the-kth-factor-of-n) |
@@ -700,6 +702,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0987-reveal-cards-in-increasing-order](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0991-array-of-doubled-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0991-array-of-doubled-pairs) |
 | [1009-pancake-sorting](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1009-pancake-sorting) |
+| [1014-k-closest-points-to-origin](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/HasanulRafi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -976,6 +979,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1397-search-suggestions-system) |
 | [1622-max-value-of-equation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1622-max-value-of-equation) |
 | [1917-maximum-average-pass-ratio](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1917-maximum-average-pass-ratio) |
@@ -1214,6 +1218,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0772-construct-quad-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0772-construct-quad-tree) |
 | [0948-sort-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0954-maximum-sum-circular-subarray) |
+| [1014-k-closest-points-to-origin](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1014-k-closest-points-to-origin) |
 | [2109-find-array-given-subset-sums](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2109-find-array-given-subset-sums) |
 ## Sliding Window
 |  |
@@ -1666,6 +1671,7 @@ https://seanprashad.com/leetcode-patterns/
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1014-k-closest-points-to-origin) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1943,6 +1949,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0335-self-crossing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0335-self-crossing) |
 | [0587-erect-the-fence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0587-erect-the-fence) |
 | [0976-minimum-area-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0976-minimum-area-rectangle) |
+| [1014-k-closest-points-to-origin](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1014-k-closest-points-to-origin) |
 ## Rolling Hash
 |  |
 | ------- |
