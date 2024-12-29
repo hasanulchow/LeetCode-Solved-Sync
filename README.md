@@ -1859,6 +1859,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1022-unique-paths-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1022-unique-paths-iii) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1054-complement-of-base-10-integer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1054-complement-of-base-10-integer) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2105-the-number-of-good-subsets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2105-the-number-of-good-subsets) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
