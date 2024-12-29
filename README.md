@@ -212,6 +212,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1039-find-the-town-judge](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1039-find-the-town-judge) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1042-minimum-cost-to-merge-stones) |
+| [1043-grid-illumination](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1043-grid-illumination) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
@@ -380,6 +381,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1039-find-the-town-judge) |
+| [1043-grid-illumination](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1043-grid-illumination) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/HasanulRafi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
