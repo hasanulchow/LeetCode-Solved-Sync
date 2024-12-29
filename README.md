@@ -630,6 +630,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1012-equal-rational-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1012-equal-rational-numbers) |
 | [1023-time-based-key-value-store](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1023-time-based-key-value-store) |
 | [1026-string-without-aaa-or-bbb](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1026-string-without-aaa-or-bbb) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1250-longest-common-subsequence) |
@@ -1093,6 +1094,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/HasanulRafi/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
@@ -1591,6 +1593,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -1649,6 +1652,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -1781,6 +1785,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0813-all-paths-from-source-to-target](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0813-all-paths-from-source-to-target) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1022-unique-paths-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1022-unique-paths-iii) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2189-maximum-path-quality-of-a-graph) |
