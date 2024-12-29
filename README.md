@@ -216,6 +216,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1105-uncrossed-lines) |
@@ -1547,6 +1548,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1017-odd-even-jump](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1017-odd-even-jump) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1048-clumsy-factorial](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1048-clumsy-factorial) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
@@ -1631,6 +1633,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1030-smallest-string-starting-from-leaf](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1035-cousins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1040-maximum-binary-tree-ii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -1692,6 +1695,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1030-smallest-string-starting-from-leaf](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1035-cousins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1040-maximum-binary-tree-ii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -1710,6 +1714,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0450-delete-node-in-a-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Union Find
 |  |
 | ------- |
@@ -1882,6 +1887,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0943-sum-of-subarray-minimums](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1002-maximum-width-ramp) |
 | [1017-odd-even-jump](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1017-odd-even-jump) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
