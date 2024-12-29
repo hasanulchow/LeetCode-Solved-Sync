@@ -196,6 +196,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1002-maximum-width-ramp](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1002-maximum-width-ramp) |
+| [1009-pancake-sorting](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1009-pancake-sorting) |
 | [1025-minimum-cost-for-tickets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/HasanulRafi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
@@ -696,6 +697,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0985-bag-of-tokens](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0985-bag-of-tokens) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0991-array-of-doubled-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0991-array-of-doubled-pairs) |
+| [1009-pancake-sorting](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1009-pancake-sorting) |
 | [1397-search-suggestions-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/HasanulRafi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -760,6 +762,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0959-3sum-with-multiplicity](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0959-3sum-with-multiplicity) |
 | [0961-long-pressed-name](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0961-long-pressed-name) |
 | [0985-bag-of-tokens](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0985-bag-of-tokens) |
+| [1009-pancake-sorting](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1009-pancake-sorting) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HasanulRafi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -808,6 +811,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0985-bag-of-tokens](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0985-bag-of-tokens) |
 | [0991-array-of-doubled-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0991-array-of-doubled-pairs) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [1009-pancake-sorting](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1009-pancake-sorting) |
 | [1917-maximum-average-pass-ratio](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2089-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2140-longest-subsequence-repeated-k-times) |
