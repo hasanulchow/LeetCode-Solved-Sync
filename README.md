@@ -217,6 +217,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1063-best-sightseeing-pair](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1105-uncrossed-lines) |
@@ -385,6 +386,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1034-subarrays-with-k-different-integers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1039-find-the-town-judge) |
 | [1043-grid-illumination](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1043-grid-illumination) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/HasanulRafi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -1060,6 +1062,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0959-3sum-with-multiplicity](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0959-3sum-with-multiplicity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1034-subarrays-with-k-different-integers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1034-subarrays-with-k-different-integers) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1777-determine-if-two-strings-are-close](https://github.com/HasanulRafi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
