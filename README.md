@@ -174,6 +174,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0830-largest-triangle-area](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0830-largest-triangle-area) |
 | [0831-largest-sum-of-averages](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0831-largest-sum-of-averages) |
 | [0833-bus-routes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0833-bus-routes) |
+| [0835-linked-list-components](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0835-linked-list-components) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -391,6 +392,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0822-unique-morse-code-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0822-unique-morse-code-words) |
 | [0829-subdomain-visit-count](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0829-subdomain-visit-count) |
 | [0833-bus-routes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0833-bus-routes) |
+| [0835-linked-list-components](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0835-linked-list-components) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0947-online-election](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0947-online-election) |
@@ -477,6 +479,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0328-odd-even-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0460-lfu-cache) |
+| [0835-linked-list-components](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0835-linked-list-components) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
