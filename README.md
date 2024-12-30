@@ -649,6 +649,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0591-tag-validator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0591-tag-validator) |
 | [0592-fraction-addition-and-subtraction](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0592-fraction-addition-and-subtraction) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0606-construct-string-from-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0606-construct-string-from-binary-tree) |
 | [0639-decode-ways-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0639-decode-ways-ii) |
 | [0649-dota2-senate](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0649-dota2-senate) |
 | [0664-strange-printer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0664-strange-printer) |
@@ -1143,6 +1144,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0547-number-of-provinces) |
+| [0606-construct-string-from-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0685-redundant-connection-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0685-redundant-connection-ii) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -1673,6 +1675,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0772-construct-quad-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -1738,6 +1741,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0904-leaf-similar-trees) |
