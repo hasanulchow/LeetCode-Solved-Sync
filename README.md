@@ -1425,6 +1425,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0518-coin-change-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0518-coin-change-ii) |
 | [0546-remove-boxes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0552-student-attendance-record-ii) |
+| [0576-out-of-boundary-paths](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0576-out-of-boundary-paths) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0629-k-inverse-pairs-array) |
 | [0639-decode-ways-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0639-decode-ways-ii) |
