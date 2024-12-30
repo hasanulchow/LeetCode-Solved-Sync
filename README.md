@@ -131,6 +131,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0494-target-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0506-relative-ranks) |
 | [0517-super-washing-machines](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0518-coin-change-ii) |
 | [0546-remove-boxes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0546-remove-boxes) |
@@ -731,6 +732,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0436-find-right-interval](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -1033,6 +1035,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0420-strong-password-checker](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0420-strong-password-checker) |
 | [0480-sliding-window-median](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
