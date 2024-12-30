@@ -495,6 +495,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0479-largest-palindrome-product](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0483-smallest-good-base) |
 | [0489-kth-smallest-instructions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0489-kth-smallest-instructions) |
+| [0504-base-7](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0504-base-7) |
 | [0564-find-the-closest-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0587-erect-the-fence) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0668-kth-smallest-number-in-multiplication-table) |
