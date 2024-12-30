@@ -170,6 +170,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0825-max-increase-to-keep-city-skyline](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0827-expressive-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0827-expressive-words) |
 | [0828-chalkboard-xor-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0828-chalkboard-xor-game) |
+| [0829-subdomain-visit-count](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -385,6 +386,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0726-number-of-atoms](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/HasanulRafi/LeetCode/tree/master/0768-partition-labels) |
 | [0822-unique-morse-code-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0822-unique-morse-code-words) |
+| [0829-subdomain-visit-count](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0947-online-election](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0947-online-election) |
@@ -672,6 +674,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0822-unique-morse-code-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0824-number-of-lines-to-write-string) |
 | [0827-expressive-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0827-expressive-words) |
+| [0829-subdomain-visit-count](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0952-word-subsets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0952-word-subsets) |
@@ -1113,6 +1116,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0383-ransom-note](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0829-subdomain-visit-count](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0959-3sum-with-multiplicity](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0959-3sum-with-multiplicity) |
