@@ -140,6 +140,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0587-erect-the-fence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/HasanulRafi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -506,6 +507,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0587-erect-the-fence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0593-valid-square) |
+| [0598-range-addition-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0598-range-addition-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0679-24-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0679-24-game) |
 | [0944-smallest-range-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0944-smallest-range-i) |
