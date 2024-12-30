@@ -680,6 +680,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0824-number-of-lines-to-write-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0824-number-of-lines-to-write-string) |
 | [0827-expressive-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0827-expressive-words) |
 | [0829-subdomain-visit-count](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0829-subdomain-visit-count) |
+| [0834-ambiguous-coordinates](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0834-ambiguous-coordinates) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0952-word-subsets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0952-word-subsets) |
@@ -1924,6 +1925,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0679-24-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0691-stickers-to-spell-word) |
 | [0813-all-paths-from-source-to-target](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0813-all-paths-from-source-to-target) |
+| [0834-ambiguous-coordinates](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0834-ambiguous-coordinates) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1022-unique-paths-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1022-unique-paths-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -2159,6 +2161,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0479-largest-palindrome-product) |
+| [0834-ambiguous-coordinates](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0834-ambiguous-coordinates) |
 | [0986-largest-time-for-given-digits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0986-largest-time-for-given-digits) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2140-longest-subsequence-repeated-k-times) |
