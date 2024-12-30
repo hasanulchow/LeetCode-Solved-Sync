@@ -502,6 +502,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0504-base-7](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0504-base-7) |
 | [0564-find-the-closest-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0587-erect-the-fence) |
+| [0592-fraction-addition-and-subtraction](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0592-fraction-addition-and-subtraction) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0679-24-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0679-24-game) |
 | [0944-smallest-range-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0944-smallest-range-i) |
@@ -639,6 +640,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0564-find-the-closest-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0564-find-the-closest-palindrome) |
 | [0583-delete-operation-for-two-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0583-delete-operation-for-two-strings) |
 | [0591-tag-validator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0591-tag-validator) |
+| [0592-fraction-addition-and-subtraction](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0592-fraction-addition-and-subtraction) |
 | [0639-decode-ways-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0639-decode-ways-ii) |
 | [0649-dota2-senate](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0649-dota2-senate) |
 | [0664-strange-printer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0664-strange-printer) |
@@ -1534,6 +1536,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0067-add-binary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0289-game-of-life) |
+| [0592-fraction-addition-and-subtraction](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0983-validate-stack-sequences) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0987-reveal-cards-in-increasing-order) |
