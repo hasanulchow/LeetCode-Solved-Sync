@@ -173,6 +173,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0829-subdomain-visit-count](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0829-subdomain-visit-count) |
 | [0830-largest-triangle-area](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0830-largest-triangle-area) |
 | [0831-largest-sum-of-averages](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0831-largest-sum-of-averages) |
+| [0833-bus-routes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0833-bus-routes) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -389,6 +390,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0768-partition-labels](https://github.com/HasanulRafi/LeetCode/tree/master/0768-partition-labels) |
 | [0822-unique-morse-code-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0822-unique-morse-code-words) |
 | [0829-subdomain-visit-count](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0829-subdomain-visit-count) |
+| [0833-bus-routes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0833-bus-routes) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0947-online-election](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0947-online-election) |
@@ -967,6 +969,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0787-sliding-puzzle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0787-sliding-puzzle) |
 | [0813-all-paths-from-source-to-target](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0820-find-eventual-safe-states) |
+| [0833-bus-routes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0833-bus-routes) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0945-snakes-and-ladders) |
