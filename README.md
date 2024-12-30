@@ -130,6 +130,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0493-reverse-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0502-ipo) |
+| [0503-next-greater-element-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0503-next-greater-element-ii) |
 | [0517-super-washing-machines](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0518-coin-change-ii) |
 | [0546-remove-boxes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0546-remove-boxes) |
@@ -1555,6 +1556,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0321-create-maximum-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0394-decode-string) |
 | [0488-zuma-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0488-zuma-game) |
+| [0503-next-greater-element-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0503-next-greater-element-ii) |
 | [0591-tag-validator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0591-tag-validator) |
 | [0726-number-of-atoms](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0735-asteroid-collision) |
@@ -1905,6 +1907,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0084-largest-rectangle-in-histogram](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0321-create-maximum-number) |
+| [0503-next-greater-element-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0937-online-stock-span) |
