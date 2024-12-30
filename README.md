@@ -172,6 +172,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0828-chalkboard-xor-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0828-chalkboard-xor-game) |
 | [0829-subdomain-visit-count](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0829-subdomain-visit-count) |
 | [0830-largest-triangle-area](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0830-largest-triangle-area) |
+| [0831-largest-sum-of-averages](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0831-largest-sum-of-averages) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -1387,6 +1388,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0410-split-array-largest-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/HasanulRafi/LeetCode/tree/master/0724-find-pivot-index) |
+| [0831-largest-sum-of-averages](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0831-largest-sum-of-averages) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -1488,6 +1490,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0747-min-cost-climbing-stairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0806-domino-and-tromino-tiling) |
 | [0823-split-array-with-same-average](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0823-split-array-with-same-average) |
+| [0831-largest-sum-of-averages](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0831-largest-sum-of-averages) |
 | [0943-sum-of-subarray-minimums](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0954-maximum-sum-circular-subarray) |
 | [0956-number-of-music-playlists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0956-number-of-music-playlists) |
