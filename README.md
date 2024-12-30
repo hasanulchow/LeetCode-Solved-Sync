@@ -1175,6 +1175,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0776-n-ary-tree-postorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0813-all-paths-from-source-to-target](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0820-find-eventual-safe-states) |
+| [0832-binary-tree-pruning](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0832-binary-tree-pruning) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0904-leaf-similar-trees) |
@@ -1708,6 +1709,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0775-n-ary-tree-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0783-search-in-a-binary-search-tree) |
+| [0832-binary-tree-pruning](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0904-leaf-similar-trees) |
 | [0955-complete-binary-tree-inserter](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0955-complete-binary-tree-inserter) |
 | [0988-flip-equivalent-binary-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0988-flip-equivalent-binary-trees) |
@@ -1771,6 +1773,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0606-construct-string-from-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0783-search-in-a-binary-search-tree) |
+| [0832-binary-tree-pruning](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0904-leaf-similar-trees) |
 | [0955-complete-binary-tree-inserter](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0955-complete-binary-tree-inserter) |
 | [0988-flip-equivalent-binary-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0988-flip-equivalent-binary-trees) |
