@@ -166,6 +166,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0821-bricks-falling-when-hit](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0821-bricks-falling-when-hit) |
 | [0822-unique-morse-code-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0822-unique-morse-code-words) |
 | [0823-split-array-with-same-average](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0823-split-array-with-same-average) |
+| [0824-number-of-lines-to-write-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -665,6 +666,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0730-count-different-palindromic-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0730-count-different-palindromic-subsequences) |
 | [0768-partition-labels](https://github.com/HasanulRafi/LeetCode/tree/master/0768-partition-labels) |
 | [0822-unique-morse-code-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0822-unique-morse-code-words) |
+| [0824-number-of-lines-to-write-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0952-word-subsets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0952-word-subsets) |
