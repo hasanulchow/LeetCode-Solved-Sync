@@ -164,6 +164,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0787-sliding-puzzle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0817-design-hashmap) |
 | [0821-bricks-falling-when-hit](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0821-bricks-falling-when-hit) |
 | [0822-unique-morse-code-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0822-unique-morse-code-words) |
 | [0823-split-array-with-same-average](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0823-split-array-with-same-average) |
@@ -397,6 +398,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0726-number-of-atoms](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/HasanulRafi/LeetCode/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0822-unique-morse-code-words) |
 | [0829-subdomain-visit-count](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0829-subdomain-visit-count) |
 | [0833-bus-routes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0833-bus-routes) |
@@ -491,6 +493,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0432-all-oone-data-structure](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0835-linked-list-components) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -1690,6 +1693,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0460-lfu-cache](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0460-lfu-cache) |
 | [0715-range-module](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0715-range-module) |
 | [0816-design-hashset](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0937-online-stock-span) |
 | [0947-online-election](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0947-online-election) |
 | [0955-complete-binary-tree-inserter](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0955-complete-binary-tree-inserter) |
@@ -2182,6 +2186,7 @@ https://seanprashad.com/leetcode-patterns/
 | ------- |
 | [0214-shortest-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0214-shortest-palindrome) |
 | [0816-design-hashset](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0817-design-hashmap) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 ## Line Sweep
 |  |
