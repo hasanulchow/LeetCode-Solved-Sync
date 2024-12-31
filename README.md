@@ -555,6 +555,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0598-range-addition-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0598-range-addition-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0679-24-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0679-24-game) |
+| [0728-self-dividing-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0728-self-dividing-numbers) |
 | [0823-split-array-with-same-average](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0823-split-array-with-same-average) |
 | [0828-chalkboard-xor-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0828-chalkboard-xor-game) |
 | [0830-largest-triangle-area](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0830-largest-triangle-area) |
