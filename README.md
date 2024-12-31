@@ -501,6 +501,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0328-odd-even-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0460-lfu-cache) |
+| [0725-split-linked-list-in-parts](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0725-split-linked-list-in-parts) |
 | [0816-design-hashset](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0835-linked-list-components) |
