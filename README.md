@@ -180,6 +180,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0841-shortest-distance-to-a-character](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0841-shortest-distance-to-a-character) |
 | [0842-card-flipping-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0842-card-flipping-game) |
 | [0843-binary-trees-with-factors](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0843-binary-trees-with-factors) |
+| [0852-friends-of-appropriate-ages](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0852-friends-of-appropriate-ages) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0907-koko-eating-bananas) |
@@ -792,6 +793,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0726-number-of-atoms](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0780-max-chunks-to-make-sorted) |
 | [0843-binary-trees-with-factors](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0843-binary-trees-with-factors) |
+| [0852-friends-of-appropriate-ages](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0852-friends-of-appropriate-ages) |
 | [0946-smallest-range-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0958-sort-array-by-parity-ii) |
@@ -868,6 +870,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0768-partition-labels](https://github.com/HasanulRafi/LeetCode/tree/master/0768-partition-labels) |
 | [0827-expressive-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0827-expressive-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0841-shortest-distance-to-a-character) |
+| [0852-friends-of-appropriate-ages](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0852-friends-of-appropriate-ages) |
 | [0953-reverse-only-letters](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0959-3sum-with-multiplicity) |
@@ -1305,6 +1308,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0792-binary-search) |
+| [0852-friends-of-appropriate-ages](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0852-friends-of-appropriate-ages) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0907-koko-eating-bananas) |
 | [0947-online-election](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0947-online-election) |
