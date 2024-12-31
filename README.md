@@ -178,6 +178,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0839-short-encoding-of-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0841-shortest-distance-to-a-character) |
+| [0842-card-flipping-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0842-card-flipping-game) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0907-koko-eating-bananas) |
@@ -397,6 +398,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0835-linked-list-components](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0835-linked-list-components) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0839-short-encoding-of-words) |
+| [0842-card-flipping-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0842-card-flipping-game) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0947-online-election](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0947-online-election) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
