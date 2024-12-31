@@ -495,6 +495,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0816-design-hashset](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0835-linked-list-components) |
+| [0838-design-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0838-design-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -1694,6 +1695,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0715-range-module](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0715-range-module) |
 | [0816-design-hashset](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0817-design-hashmap) |
+| [0838-design-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0838-design-linked-list) |
 | [0937-online-stock-span](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0937-online-stock-span) |
 | [0947-online-election](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0947-online-election) |
 | [0955-complete-binary-tree-inserter](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0955-complete-binary-tree-inserter) |
