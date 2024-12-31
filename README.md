@@ -186,6 +186,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0853-most-profit-assigning-work](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0853-most-profit-assigning-work) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0894-random-pick-with-blacklist](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0894-random-pick-with-blacklist) |
 | [0907-koko-eating-bananas](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-smallest-range-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0944-smallest-range-i) |
@@ -408,6 +409,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0842-card-flipping-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0842-card-flipping-game) |
 | [0843-binary-trees-with-factors](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0843-binary-trees-with-factors) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
+| [0894-random-pick-with-blacklist](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0894-random-pick-with-blacklist) |
 | [0947-online-election](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0947-online-election) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0952-word-subsets) |
@@ -548,6 +550,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0823-split-array-with-same-average](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0823-split-array-with-same-average) |
 | [0828-chalkboard-xor-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0828-chalkboard-xor-game) |
 | [0830-largest-triangle-area](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0830-largest-triangle-area) |
+| [0894-random-pick-with-blacklist](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0894-random-pick-with-blacklist) |
 | [0944-smallest-range-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0946-smallest-range-ii) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -804,6 +807,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0843-binary-trees-with-factors](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0843-binary-trees-with-factors) |
 | [0852-friends-of-appropriate-ages](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0853-most-profit-assigning-work) |
+| [0894-random-pick-with-blacklist](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0894-random-pick-with-blacklist) |
 | [0946-smallest-range-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0958-sort-array-by-parity-ii) |
@@ -1323,6 +1327,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0852-friends-of-appropriate-ages](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0853-most-profit-assigning-work) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0894-random-pick-with-blacklist](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0894-random-pick-with-blacklist) |
 | [0907-koko-eating-bananas](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0907-koko-eating-bananas) |
 | [0947-online-election](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0947-online-election) |
 | [1023-time-based-key-value-store](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1023-time-based-key-value-store) |
@@ -2043,6 +2048,7 @@ https://seanprashad.com/leetcode-patterns/
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0894-random-pick-with-blacklist](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0894-random-pick-with-blacklist) |
 ## Database
 |  |
 | ------- |
