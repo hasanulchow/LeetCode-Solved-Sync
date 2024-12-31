@@ -177,6 +177,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0835-linked-list-components](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0835-linked-list-components) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0839-short-encoding-of-words) |
+| [0841-shortest-distance-to-a-character](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0841-shortest-distance-to-a-character) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0907-koko-eating-bananas) |
@@ -688,6 +689,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0834-ambiguous-coordinates](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0834-ambiguous-coordinates) |
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0839-short-encoding-of-words) |
+| [0841-shortest-distance-to-a-character](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0841-shortest-distance-to-a-character) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0952-word-subsets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0953-reverse-only-letters) |
@@ -859,6 +861,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/HasanulRafi/LeetCode/tree/master/0768-partition-labels) |
 | [0827-expressive-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0827-expressive-words) |
+| [0841-shortest-distance-to-a-character](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0959-3sum-with-multiplicity) |
