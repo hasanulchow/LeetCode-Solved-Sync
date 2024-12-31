@@ -158,6 +158,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0721-accounts-merge) |
+| [0722-remove-comments](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/HasanulRafi/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0739-daily-temperatures) |
@@ -703,6 +704,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0721-accounts-merge) |
+| [0722-remove-comments](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0722-remove-comments) |
 | [0726-number-of-atoms](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0726-number-of-atoms) |
 | [0730-count-different-palindromic-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0730-count-different-palindromic-subsequences) |
 | [0742-to-lower-case](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0742-to-lower-case) |
