@@ -694,6 +694,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0837-most-common-word](https://github.com/HasanulRafi/LeetCode/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0839-short-encoding-of-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0841-shortest-distance-to-a-character) |
+| [0851-goat-latin](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0851-goat-latin) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0952-word-subsets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0953-reverse-only-letters) |
