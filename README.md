@@ -312,6 +312,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2428-equal-row-and-column-pairs) |
+| [2531-create-components-with-same-value](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2531-create-components-with-same-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2636-maximum-subsequence-score) |
@@ -597,6 +598,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2202-sum-of-k-mirror-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2222-abbreviating-the-product-of-a-range](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2222-abbreviating-the-product-of-a-range) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
+| [2531-create-components-with-same-value](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2531-create-components-with-same-value) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1283,6 +1285,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2213-find-all-people-with-secret](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2213-find-all-people-with-secret) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2531-create-components-with-same-value](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2531-create-components-with-same-value) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -1836,6 +1839,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2531-create-components-with-same-value](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2531-create-components-with-same-value) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -2283,6 +2287,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2241-recover-the-original-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2241-recover-the-original-array) |
+| [2531-create-components-with-same-value](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2531-create-components-with-same-value) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3626-smallest-divisible-digit-product-i) |
