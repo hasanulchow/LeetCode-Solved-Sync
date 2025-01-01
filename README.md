@@ -780,6 +780,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2275-find-substring-with-given-hash-value](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2275-find-substring-with-given-hash-value) |
 | [2276-groups-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2276-groups-of-strings) |
+| [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2470-removing-stars-from-a-string) |
@@ -1639,6 +1640,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2562-count-ways-to-build-good-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2562-count-ways-to-build-good-strings) |
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3487-find-maximum-removals-from-source-string) |
