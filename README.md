@@ -309,6 +309,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2241-recover-the-original-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2241-recover-the-original-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2262-solving-questions-with-brainpower) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2263-maximum-running-time-of-n-computers) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1168,6 +1169,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1917-maximum-average-pass-ratio](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2164-two-best-non-overlapping-events) |
 | [2207-sequentially-ordinal-rank-tracker](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2207-sequentially-ordinal-rank-tracker) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2413-smallest-number-in-infinite-set) |
@@ -1629,6 +1631,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2562-count-ways-to-build-good-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2562-count-ways-to-build-good-strings) |
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3487-find-maximum-removals-from-source-string) |
