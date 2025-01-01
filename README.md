@@ -260,6 +260,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1105-uncrossed-lines) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1286-constrained-subsequence-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1286-constrained-subsequence-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/HasanulRafi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HasanulRafi/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -1143,6 +1144,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1014-k-closest-points-to-origin) |
+| [1286-constrained-subsequence-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1286-constrained-subsequence-sum) |
 | [1397-search-suggestions-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1397-search-suggestions-system) |
 | [1539-diagonal-traverse-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1539-diagonal-traverse-ii) |
 | [1622-max-value-of-equation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1622-max-value-of-equation) |
@@ -1427,6 +1429,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1034-subarrays-with-k-different-integers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
+| [1286-constrained-subsequence-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1286-constrained-subsequence-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HasanulRafi/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1583,6 +1586,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1105-uncrossed-lines](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1105-uncrossed-lines) |
 | [1236-n-th-tribonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1250-longest-common-subsequence) |
+| [1286-constrained-subsequence-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1286-constrained-subsequence-sum) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -1627,6 +1631,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0969-number-of-recent-calls](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1286-constrained-subsequence-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1286-constrained-subsequence-sum) |
 | [1622-max-value-of-equation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1622-max-value-of-equation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2868-continuous-subarrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2868-continuous-subarrays) |
@@ -1636,6 +1641,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0239-sliding-window-maximum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0954-maximum-sum-circular-subarray) |
+| [1286-constrained-subsequence-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1286-constrained-subsequence-sum) |
 | [1622-max-value-of-equation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1622-max-value-of-equation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2868-continuous-subarrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2868-continuous-subarrays) |
