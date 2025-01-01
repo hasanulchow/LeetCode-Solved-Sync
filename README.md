@@ -583,6 +583,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1064-smallest-integer-divisible-by-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1070-convert-to-base-2](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1070-convert-to-base-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1195-distribute-candies-to-people](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1195-distribute-candies-to-people) |
 | [1236-n-th-tribonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1236-n-th-tribonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1585-the-kth-factor-of-n) |
@@ -1816,6 +1817,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1040-maximum-binary-tree-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1040-maximum-binary-tree-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -1884,6 +1886,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1040-maximum-binary-tree-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1040-maximum-binary-tree-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2493-reverse-odd-levels-of-binary-tree) |
