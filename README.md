@@ -308,6 +308,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2234-minimum-operations-to-make-the-array-k-increasing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2234-minimum-operations-to-make-the-array-k-increasing) |
 | [2241-recover-the-original-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2241-recover-the-original-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2262-solving-questions-with-brainpower) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -862,6 +863,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2213-find-all-people-with-secret](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2213-find-all-people-with-secret) |
 | [2241-recover-the-original-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2241-recover-the-original-array) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -987,6 +989,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2200-stamping-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2200-stamping-the-grid) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2300-construct-string-with-repeat-limit) |
 | [2487-optimal-partition-of-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2487-optimal-partition-of-string) |
 | [2636-maximum-subsequence-score](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2636-maximum-subsequence-score) |
@@ -1390,6 +1393,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2234-minimum-operations-to-make-the-array-k-increasing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2234-minimum-operations-to-make-the-array-k-increasing) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
