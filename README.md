@@ -312,6 +312,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2280-count-good-triplets-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2280-count-good-triplets-in-an-array) |
+| [2291-maximum-and-sum-of-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2291-maximum-and-sum-of-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1641,6 +1642,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2262-solving-questions-with-brainpower](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
+| [2291-maximum-and-sum-of-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2291-maximum-and-sum-of-array) |
 | [2562-count-ways-to-build-good-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2562-count-ways-to-build-good-strings) |
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3487-find-maximum-removals-from-source-string) |
@@ -2100,6 +2102,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2276-groups-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2276-groups-of-strings) |
+| [2291-maximum-and-sum-of-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2291-maximum-and-sum-of-array) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -2326,6 +2329,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0980-find-the-shortest-superstring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0980-find-the-shortest-superstring) |
 | [2105-the-number-of-good-subsets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2105-the-number-of-good-subsets) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2291-maximum-and-sum-of-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2291-maximum-and-sum-of-array) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Strongly Connected Component
 |  |
