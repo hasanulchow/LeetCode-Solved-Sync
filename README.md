@@ -262,6 +262,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1196-filling-bookcase-shelves) |
 | [1206-corporate-flight-bookings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1206-corporate-flight-bookings) |
+| [1207-delete-nodes-and-return-forest](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1207-delete-nodes-and-return-forest) |
 | [1286-constrained-subsequence-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1286-constrained-subsequence-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/HasanulRafi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -448,6 +449,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1064-smallest-integer-divisible-by-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1207-delete-nodes-and-return-forest](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1207-delete-nodes-and-return-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/HasanulRafi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HasanulRafi/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -1266,6 +1268,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1035-cousins-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1207-delete-nodes-and-return-forest) |
 | [1300-critical-connections-in-a-network](https://github.com/HasanulRafi/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -1825,6 +1828,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1207-delete-nodes-and-return-forest) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -1894,6 +1898,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1207-delete-nodes-and-return-forest) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2493-reverse-odd-levels-of-binary-tree) |
