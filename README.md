@@ -1054,6 +1054,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0547-number-of-provinces) |
+| [0623-add-one-row-to-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0685-redundant-connection-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0685-redundant-connection-ii) |
@@ -1273,6 +1274,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0543-diameter-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0547-number-of-provinces) |
 | [0606-construct-string-from-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0606-construct-string-from-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0685-redundant-connection-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0721-accounts-merge) |
@@ -1850,6 +1852,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0606-construct-string-from-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0772-construct-quad-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -1924,6 +1927,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0606-construct-string-from-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0783-search-in-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0832-binary-tree-pruning) |
