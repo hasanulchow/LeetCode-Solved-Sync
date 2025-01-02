@@ -582,6 +582,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0598-range-addition-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0633-sum-of-square-numbers) |
+| [0640-solve-the-equation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0640-solve-the-equation) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0679-24-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0728-self-dividing-numbers) |
@@ -734,6 +735,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0606-construct-string-from-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0606-construct-string-from-binary-tree) |
 | [0639-decode-ways-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0639-decode-ways-ii) |
+| [0640-solve-the-equation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0640-solve-the-equation) |
 | [0649-dota2-senate](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0649-dota2-senate) |
 | [0664-strange-printer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0664-strange-printer) |
 | [0691-stickers-to-spell-word](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0691-stickers-to-spell-word) |
@@ -1729,6 +1731,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0068-text-justification](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0289-game-of-life) |
 | [0592-fraction-addition-and-subtraction](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0592-fraction-addition-and-subtraction) |
+| [0640-solve-the-equation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0640-solve-the-equation) |
 | [0735-asteroid-collision](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0983-validate-stack-sequences) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0987-reveal-cards-in-increasing-order) |
