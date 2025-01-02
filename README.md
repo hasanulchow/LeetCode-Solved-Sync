@@ -144,6 +144,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/HasanulRafi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0646-maximum-length-of-pair-chain) |
@@ -983,6 +984,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0649-dota2-senate) |
