@@ -146,6 +146,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0621-task-scheduler](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/HasanulRafi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0646-maximum-length-of-pair-chain) |
@@ -850,6 +851,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0594-longest-harmonious-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -988,6 +990,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0605-can-place-flowers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0624-maximum-distance-in-arrays) |
+| [0630-course-schedule-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0649-dota2-senate) |
@@ -1182,6 +1185,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0502-ipo](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
