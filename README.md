@@ -151,6 +151,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0636-exclusive-time-of-functions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0636-exclusive-time-of-functions) |
 | [0638-shopping-offers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0638-shopping-offers) |
 | [0643-maximum-average-subarray-i](https://github.com/HasanulRafi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -425,6 +426,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0721-accounts-merge) |
@@ -860,6 +862,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0628-maximum-product-of-three-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/HasanulRafi/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -2137,6 +2140,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0338-counting-bits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0389-find-the-difference) |
 | [0638-shopping-offers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0638-shopping-offers) |
+| [0645-set-mismatch](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0645-set-mismatch) |
 | [0691-stickers-to-spell-word](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0691-stickers-to-spell-word) |
 | [0823-split-array-with-same-average](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0823-split-array-with-same-average) |
 | [0828-chalkboard-xor-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0828-chalkboard-xor-game) |
