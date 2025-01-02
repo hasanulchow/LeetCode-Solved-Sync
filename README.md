@@ -149,6 +149,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0630-course-schedule-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0636-exclusive-time-of-functions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0636-exclusive-time-of-functions) |
+| [0638-shopping-offers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0638-shopping-offers) |
 | [0643-maximum-average-subarray-i](https://github.com/HasanulRafi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -1617,6 +1618,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0583-delete-operation-for-two-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0629-k-inverse-pairs-array) |
+| [0638-shopping-offers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0638-shopping-offers) |
 | [0639-decode-ways-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0639-decode-ways-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0646-maximum-length-of-pair-chain) |
 | [0664-strange-printer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0664-strange-printer) |
@@ -2050,6 +2052,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0488-zuma-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0488-zuma-game) |
 | [0546-remove-boxes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0546-remove-boxes) |
+| [0638-shopping-offers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0638-shopping-offers) |
 | [1004-least-operators-to-express-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1004-least-operators-to-express-number) |
 | [1013-fibonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1236-n-th-tribonacci-number) |
@@ -2095,6 +2098,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0282-expression-add-operators](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0494-target-sum) |
+| [0638-shopping-offers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0638-shopping-offers) |
 | [0679-24-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0691-stickers-to-spell-word) |
 | [0813-all-paths-from-source-to-target](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0813-all-paths-from-source-to-target) |
@@ -2125,6 +2129,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0287-find-the-duplicate-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0389-find-the-difference) |
+| [0638-shopping-offers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0691-stickers-to-spell-word) |
 | [0823-split-array-with-same-average](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0823-split-array-with-same-average) |
 | [0828-chalkboard-xor-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0828-chalkboard-xor-game) |
@@ -2366,6 +2371,7 @@ https://seanprashad.com/leetcode-patterns/
 ## Bitmask
 |  |
 | ------- |
+| [0638-shopping-offers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0691-stickers-to-spell-word) |
 | [0823-split-array-with-same-average](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0823-split-array-with-same-average) |
 | [0980-find-the-shortest-superstring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0980-find-the-shortest-superstring) |
