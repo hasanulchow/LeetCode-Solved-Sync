@@ -148,6 +148,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0628-maximum-product-of-three-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0636-exclusive-time-of-functions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/HasanulRafi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -1767,6 +1768,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0503-next-greater-element-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0591-tag-validator](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0591-tag-validator) |
+| [0636-exclusive-time-of-functions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0636-exclusive-time-of-functions) |
 | [0726-number-of-atoms](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0739-daily-temperatures) |
