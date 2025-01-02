@@ -190,6 +190,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0843-binary-trees-with-factors](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0843-binary-trees-with-factors) |
 | [0852-friends-of-appropriate-ages](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0853-most-profit-assigning-work) |
+| [0860-design-circular-queue](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0860-design-circular-queue) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0894-random-pick-with-blacklist](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0894-random-pick-with-blacklist) |
@@ -526,6 +527,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0817-design-hashmap](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0835-linked-list-components) |
 | [0838-design-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0860-design-circular-queue) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -1680,6 +1682,7 @@ https://seanprashad.com/leetcode-patterns/
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0649-dota2-senate) |
+| [0860-design-circular-queue](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0969-number-of-recent-calls) |
@@ -1794,6 +1797,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0816-design-hashset](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0937-online-stock-span) |
 | [0947-online-election](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0947-online-election) |
 | [0955-complete-binary-tree-inserter](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0955-complete-binary-tree-inserter) |
