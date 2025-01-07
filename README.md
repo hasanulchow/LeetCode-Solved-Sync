@@ -279,6 +279,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1397-search-suggestions-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1524-string-matching-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-diagonal-traverse-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1539-diagonal-traverse-ii) |
@@ -792,6 +793,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1250-longest-common-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1397-search-suggestions-system) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1524-string-matching-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HasanulRafi/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -2179,6 +2181,7 @@ https://seanprashad.com/leetcode-patterns/
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0214-shortest-palindrome) |
+| [1524-string-matching-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 ## Monotonic Stack
