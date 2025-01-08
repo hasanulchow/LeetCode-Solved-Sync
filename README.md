@@ -346,6 +346,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3427-special-array-ii) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3510-maximize-the-total-height-of-unique-towers) |
@@ -823,6 +824,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2886-faulty-keyboard](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2886-faulty-keyboard) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
@@ -1189,6 +1191,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0720-longest-word-in-dictionary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0720-longest-word-in-dictionary) |
 | [0839-short-encoding-of-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0839-short-encoding-of-words) |
 | [1397-search-suggestions-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1397-search-suggestions-system) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -2183,6 +2186,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0214-shortest-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0214-shortest-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 ## Monotonic Stack
 |  |
@@ -2365,6 +2369,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0214-shortest-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2275-find-substring-with-given-hash-value](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2275-find-substring-with-given-hash-value) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
@@ -2373,6 +2378,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0816-design-hashset](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0817-design-hashmap) |
 | [2275-find-substring-with-given-hash-value](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2275-find-substring-with-given-hash-value) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 ## Line Sweep
 |  |
