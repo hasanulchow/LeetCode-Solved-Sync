@@ -481,6 +481,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HasanulRafi/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-construct-k-palindrome-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/HasanulRafi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HasanulRafi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -795,6 +796,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1250-longest-common-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1397-search-suggestions-system) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1502-construct-k-palindrome-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -1035,6 +1037,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1502-construct-k-palindrome-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2089-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1263,6 +1266,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0982-minimum-increment-to-make-array-unique](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1034-subarrays-with-k-different-integers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1034-subarrays-with-k-different-integers) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1502-construct-k-palindrome-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/HasanulRafi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
