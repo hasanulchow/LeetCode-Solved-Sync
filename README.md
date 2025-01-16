@@ -335,6 +335,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2428-equal-row-and-column-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2428-equal-row-and-column-pairs) |
 | [2465-shifting-letters-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2465-shifting-letters-ii) |
 | [2531-create-components-with-same-value](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2531-create-components-with-same-value) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2636-maximum-subsequence-score) |
@@ -2190,6 +2191,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2276-groups-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2276-groups-of-strings) |
 | [2291-maximum-and-sum-of-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2291-maximum-and-sum-of-array) |
 | [2509-minimize-xor](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -2441,6 +2443,7 @@ https://seanprashad.com/leetcode-patterns/
 |  |
 | ------- |
 | [0828-chalkboard-xor-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0828-chalkboard-xor-game) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Game Theory
 |  |
 | ------- |
