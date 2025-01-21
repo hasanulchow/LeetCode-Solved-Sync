@@ -305,6 +305,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2125-gcd-sort-of-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2125-gcd-sort-of-an-array) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
+| [2145-grid-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2145-grid-game) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -1185,6 +1186,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2145-grid-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2145-grid-game) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2200-stamping-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2200-stamping-the-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -1581,6 +1583,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
+| [2145-grid-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2145-grid-game) |
 | [2200-stamping-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2200-stamping-the-grid) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2358-number-of-ways-to-split-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2358-number-of-ways-to-split-array) |
