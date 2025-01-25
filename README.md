@@ -355,6 +355,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3427-special-array-ii) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3487-find-maximum-removals-from-source-string) |
@@ -933,6 +934,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -2070,6 +2072,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2198-process-restricted-friend-requests](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2198-process-restricted-friend-requests) |
 | [2213-find-all-people-with-secret](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2213-find-all-people-with-secret) |
 | [2276-groups-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2276-groups-of-strings) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Shortest Path
 |  |
 | ------- |
