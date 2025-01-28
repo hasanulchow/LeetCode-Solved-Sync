@@ -348,6 +348,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2691-count-vowel-strings-in-ranges](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/HasanulRafi/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2868-continuous-subarrays) |
@@ -1146,6 +1147,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/HasanulRafi/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1202,6 +1204,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2428-equal-row-and-column-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/HasanulRafi/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1383,6 +1386,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2531-create-components-with-same-value](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2531-create-components-with-same-value) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/HasanulRafi/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -2075,6 +2079,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2198-process-restricted-friend-requests](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2198-process-restricted-friend-requests) |
 | [2213-find-all-people-with-secret](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2213-find-all-people-with-secret) |
 | [2276-groups-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2276-groups-of-strings) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/HasanulRafi/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Shortest Path
 |  |
