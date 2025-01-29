@@ -1110,6 +1110,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0623-add-one-row-to-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0684-redundant-connection](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0721-accounts-merge) |
 | [0787-sliding-puzzle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0787-sliding-puzzle) |
@@ -1346,6 +1347,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0606-construct-string-from-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0721-accounts-merge) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -1403,6 +1405,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0685-redundant-connection-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0820-find-eventual-safe-states) |
@@ -2061,6 +2064,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0200-number-of-islands](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0721-accounts-merge) |
 | [0821-bricks-falling-when-hit](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0821-bricks-falling-when-hit) |
