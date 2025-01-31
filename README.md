@@ -196,6 +196,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0843-binary-trees-with-factors](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0843-binary-trees-with-factors) |
 | [0852-friends-of-appropriate-ages](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0853-most-profit-assigning-work) |
+| [0854-making-a-large-island](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0860-design-circular-queue) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
@@ -1117,6 +1118,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0813-all-paths-from-source-to-target](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0820-find-eventual-safe-states) |
 | [0833-bus-routes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0833-bus-routes) |
+| [0854-making-a-large-island](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0945-snakes-and-ladders) |
@@ -1183,6 +1185,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0787-sliding-puzzle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0787-sliding-puzzle) |
 | [0821-bricks-falling-when-hit](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0821-bricks-falling-when-hit) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0854-making-a-large-island](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0999-regions-cut-by-slashes) |
@@ -1356,6 +1359,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0813-all-paths-from-source-to-target](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0820-find-eventual-safe-states) |
 | [0832-binary-tree-pruning](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0832-binary-tree-pruning) |
+| [0854-making-a-large-island](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0904-leaf-similar-trees) |
@@ -2070,6 +2074,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0685-redundant-connection-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0721-accounts-merge) |
 | [0821-bricks-falling-when-hit](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0821-bricks-falling-when-hit) |
+| [0854-making-a-large-island](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0869-similar-string-groups) |
 | [0960-minimize-malware-spread](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0984-most-stones-removed-with-same-row-or-column) |
