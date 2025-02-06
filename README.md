@@ -276,6 +276,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1286-constrained-subsequence-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1286-constrained-subsequence-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/HasanulRafi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1364-tuple-with-same-product](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HasanulRafi/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1397-search-suggestions-system) |
@@ -493,6 +494,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1207-delete-nodes-and-return-forest](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1207-delete-nodes-and-return-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/HasanulRafi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1364-tuple-with-same-product](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HasanulRafi/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1502-construct-k-palindrome-strings) |
@@ -1306,6 +1308,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0982-minimum-increment-to-make-array-unique](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1034-subarrays-with-k-different-integers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1034-subarrays-with-k-different-integers) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1364-tuple-with-same-product](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/HasanulRafi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
