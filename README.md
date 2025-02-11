@@ -832,6 +832,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1894-merge-strings-alternately](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2115-number-of-unique-good-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2115-number-of-unique-good-subsequences) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1831,6 +1832,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1027-sum-of-even-numbers-after-queries](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1048-clumsy-factorial](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1048-clumsy-factorial) |
 | [1195-distribute-candies-to-people](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1195-distribute-candies-to-people) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2232-adding-spaces-to-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -1888,6 +1890,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1197-parsing-a-boolean-expression](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1197-parsing-a-boolean-expression) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
