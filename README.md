@@ -282,6 +282,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1397-search-suggestions-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-product-of-the-last-k-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -652,6 +653,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1195-distribute-candies-to-people](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1195-distribute-candies-to-people) |
 | [1236-n-th-tribonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1236-n-th-tribonacci-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1477-product-of-the-last-k-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1585-the-kth-factor-of-n) |
 | [2105-the-number-of-good-subsets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2105-the-number-of-good-subsets) |
 | [2125-gcd-sort-of-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2125-gcd-sort-of-an-array) |
@@ -1628,6 +1630,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1042-minimum-cost-to-merge-stones](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
 | [1206-corporate-flight-bookings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1206-corporate-flight-bookings) |
+| [1477-product-of-the-last-k-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1833-find-the-highest-altitude) |
@@ -1932,6 +1935,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0955-complete-binary-tree-inserter](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0955-complete-binary-tree-inserter) |
 | [0969-number-of-recent-calls](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1023-time-based-key-value-store) |
+| [1477-product-of-the-last-k-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1477-product-of-the-last-k-numbers) |
 | [2207-sequentially-ordinal-rank-tracker](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2207-sequentially-ordinal-rank-tracker) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2434-design-a-number-container-system) |
@@ -1941,6 +1945,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0295-find-median-from-data-stream](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0969-number-of-recent-calls) |
+| [1477-product-of-the-last-k-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1477-product-of-the-last-k-numbers) |
 | [2207-sequentially-ordinal-rank-tracker](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2207-sequentially-ordinal-rank-tracker) |
 ## Tree
 |  |
