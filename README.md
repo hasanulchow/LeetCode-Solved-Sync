@@ -665,6 +665,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2448-count-number-of-bad-pairs) |
 | [2531-create-components-with-same-value](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2531-create-components-with-same-value) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -2235,6 +2236,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2272-maximum-good-people-based-on-statements) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Bit Manipulation
