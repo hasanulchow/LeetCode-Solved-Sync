@@ -497,6 +497,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1064-smallest-integer-divisible-by-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1160-letter-tile-possibilities](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1207-delete-nodes-and-return-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/HasanulRafi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -824,6 +825,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1160-letter-tile-possibilities](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1197-parsing-a-boolean-expression) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1250-longest-common-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1250-longest-common-subsequence) |
@@ -1327,6 +1329,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0982-minimum-increment-to-make-array-unique](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1034-subarrays-with-k-different-integers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1034-subarrays-with-k-different-integers) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1160-letter-tile-possibilities](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1502-construct-k-palindrome-strings) |
@@ -2233,6 +2236,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1007-numbers-with-same-consecutive-differences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1022-unique-paths-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1022-unique-paths-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1160-letter-tile-possibilities](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
