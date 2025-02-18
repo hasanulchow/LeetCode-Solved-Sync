@@ -858,6 +858,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2292-counting-words-with-a-given-prefix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2487-optimal-partition-of-string) |
@@ -1089,6 +1090,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2300-construct-string-with-repeat-limit) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2487-optimal-partition-of-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2487-optimal-partition-of-string) |
 | [2509-minimize-xor](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2509-minimize-xor) |
 | [2636-maximum-subsequence-score](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2636-maximum-subsequence-score) |
@@ -1911,6 +1913,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2470-removing-stars-from-a-string) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3447-clear-digits) |
@@ -2242,6 +2245,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2272-maximum-good-people-based-on-statements) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3649-minimum-time-to-break-locks-i) |
