@@ -827,6 +827,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1197-parsing-a-boolean-expression) |
@@ -1415,6 +1416,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1030-smallest-string-starting-from-leaf](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1073-number-of-enclaves) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1207-delete-nodes-and-return-forest) |
 | [1300-critical-connections-in-a-network](https://github.com/HasanulRafi/LeetCode/tree/master/1300-critical-connections-in-a-network) |
@@ -2021,6 +2023,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1035-cousins-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1035-cousins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1040-maximum-binary-tree-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1207-delete-nodes-and-return-forest) |
@@ -2094,6 +2097,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1035-cousins-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1035-cousins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1040-maximum-binary-tree-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1207-delete-nodes-and-return-forest) |
