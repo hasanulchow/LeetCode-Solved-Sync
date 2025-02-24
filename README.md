@@ -351,6 +351,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2636-maximum-subsequence-score](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2685-first-completely-painted-row-or-column) |
@@ -1186,6 +1187,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HasanulRafi/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -1438,6 +1440,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2531-create-components-with-same-value](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2531-create-components-with-same-value) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HasanulRafi/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -1479,6 +1482,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2213-find-all-people-with-secret](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2213-find-all-people-with-secret) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3189-find-champion-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -2039,6 +2043,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2531-create-components-with-same-value](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2531-create-components-with-same-value) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
