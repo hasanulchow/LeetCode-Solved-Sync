@@ -292,6 +292,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1622-max-value-of-equation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1622-max-value-of-equation) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/HasanulRafi/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -663,6 +664,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1236-n-th-tribonacci-number](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1477-product-of-the-last-k-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1585-the-kth-factor-of-n) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2105-the-number-of-good-subsets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2105-the-number-of-good-subsets) |
 | [2125-gcd-sort-of-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2125-gcd-sort-of-an-array) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2147-the-score-of-students-solving-math-expression) |
@@ -1656,6 +1658,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1477-product-of-the-last-k-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1787,6 +1790,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2105-the-number-of-good-subsets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2105-the-number-of-good-subsets) |
