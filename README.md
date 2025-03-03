@@ -334,6 +334,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2241-recover-the-original-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2241-recover-the-original-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2262-solving-questions-with-brainpower) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2263-maximum-running-time-of-n-computers) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2280-count-good-triplets-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1048,6 +1049,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2232-adding-spaces-to-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2241-recover-the-original-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2241-recover-the-original-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2551-apply-operations-to-an-array) |
@@ -1883,6 +1885,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2232-adding-spaces-to-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2470-removing-stars-from-a-string) |
