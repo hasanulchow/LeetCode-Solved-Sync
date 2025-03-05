@@ -683,6 +683,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2448-count-number-of-bad-pairs) |
 | [2531-create-components-with-same-value](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2531-create-components-with-same-value) |
+| [2649-count-total-number-of-colored-cells](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2955-account-balance-after-rounded-purchase) |
