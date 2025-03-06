@@ -373,6 +373,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -541,6 +542,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -687,6 +689,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2955-account-balance-after-rounded-purchase) |
+| [3227-find-missing-and-repeated-values](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1263,6 +1266,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2428-equal-row-and-column-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2428-equal-row-and-column-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HasanulRafi/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3227-find-missing-and-repeated-values) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
