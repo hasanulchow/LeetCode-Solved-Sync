@@ -278,6 +278,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1286-constrained-subsequence-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1286-constrained-subsequence-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/HasanulRafi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HasanulRafi/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1396-count-servers-that-communicate) |
@@ -1565,6 +1566,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1046-max-consecutive-ones-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1087-longest-arithmetic-subsequence) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
