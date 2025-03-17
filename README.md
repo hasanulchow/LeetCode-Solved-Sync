@@ -344,6 +344,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2295-minimum-time-to-finish-the-race](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2295-minimum-time-to-finish-the-race) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -534,6 +535,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2241-recover-the-original-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2241-recover-the-original-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2300-construct-string-with-repeat-limit) |
+| [2308-divide-array-into-equal-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2308-divide-array-into-equal-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2428-equal-row-and-column-pairs) |
 | [2434-design-a-number-container-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2434-design-a-number-container-system) |
@@ -1380,6 +1382,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2300-construct-string-with-repeat-limit) |
+| [2308-divide-array-into-equal-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -2354,6 +2357,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2272-maximum-good-people-based-on-statements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2276-groups-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2276-groups-of-strings) |
 | [2291-maximum-and-sum-of-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2291-maximum-and-sum-of-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2308-divide-array-into-equal-pairs) |
 | [2509-minimize-xor](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
