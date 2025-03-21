@@ -329,6 +329,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2189-maximum-path-quality-of-a-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2200-stamping-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2200-stamping-the-grid) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2232-adding-spaces-to-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2232-adding-spaces-to-a-string) |
 | [2234-minimum-operations-to-make-the-array-k-increasing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2234-minimum-operations-to-make-the-array-k-increasing) |
@@ -536,6 +537,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2107-find-unique-binary-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2107-find-unique-binary-string) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2241-recover-the-original-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2241-recover-the-original-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2308-divide-array-into-equal-pairs) |
@@ -886,6 +888,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2184-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2184-check-if-an-original-string-exists-given-two-encoded-strings) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2232-adding-spaces-to-a-string) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
@@ -1515,6 +1518,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2198-process-restricted-friend-requests](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2198-process-restricted-friend-requests) |
 | [2201-valid-arrangement-of-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2201-valid-arrangement-of-pairs) |
 | [2213-find-all-people-with-secret](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2213-find-all-people-with-secret) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -2522,6 +2526,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1558-course-schedule-iv](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2176-parallel-courses-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2176-parallel-courses-iii) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Binary Indexed Tree
 |  |
