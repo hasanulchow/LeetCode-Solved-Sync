@@ -1514,6 +1514,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1558-course-schedule-iv](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2176-parallel-courses-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2176-parallel-courses-iii) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2189-maximum-path-quality-of-a-graph) |
@@ -1847,6 +1848,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2105-the-number-of-good-subsets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2105-the-number-of-good-subsets) |
 | [2115-number-of-unique-good-subsequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2115-number-of-unique-good-subsequences) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
@@ -2230,6 +2232,7 @@ https://seanprashad.com/leetcode-patterns/
 | ------- |
 | [0399-evaluate-division](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0399-evaluate-division) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -2529,6 +2532,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1558-course-schedule-iv](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2176-parallel-courses-iii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
