@@ -420,6 +420,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3654-minimum-array-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3654-minimum-array-sum) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
 ## Hash Table
 |  |
@@ -1011,6 +1012,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3647-zero-array-transformation-iii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Two Pointers
 |  |
 | ------- |
