@@ -362,6 +362,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2636-maximum-subsequence-score](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -1007,6 +1008,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2263-maximum-running-time-of-n-computers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2636-maximum-subsequence-score](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -1089,6 +1091,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2414-move-pieces-to-obtain-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3487-find-maximum-removals-from-source-string) |
@@ -1238,6 +1241,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HasanulRafi/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -1297,6 +1301,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2428-equal-row-and-column-pairs) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HasanulRafi/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3227-find-missing-and-repeated-values) |
@@ -1359,6 +1364,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2434-design-a-number-container-system](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2636-maximum-subsequence-score](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2636-maximum-subsequence-score) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -2239,6 +2245,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2213-find-all-people-with-secret](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2213-find-all-people-with-secret) |
 | [2276-groups-of-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2276-groups-of-strings) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HasanulRafi/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
