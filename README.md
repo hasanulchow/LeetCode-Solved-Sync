@@ -383,6 +383,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3001-apply-operations-to-maximize-score) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3227-find-missing-and-repeated-values) |
