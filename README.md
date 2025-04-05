@@ -2516,6 +2516,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1390-average-selling-price](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1415-students-and-examinations) |
 | [1452-restaurant-growth](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1452-restaurant-growth) |
+| [1453-ads-performance](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1453-ads-performance) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
