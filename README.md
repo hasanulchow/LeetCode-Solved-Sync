@@ -2536,6 +2536,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2057-count-salary-categories](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2127-employees-whose-manager-left-the-company) |
+| [2223-the-number-of-rich-customers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2223-the-number-of-rich-customers) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Doubly-Linked List
 |  |
