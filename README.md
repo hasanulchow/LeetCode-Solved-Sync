@@ -2540,6 +2540,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2127-employees-whose-manager-left-the-company](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2223-the-number-of-rich-customers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2223-the-number-of-rich-customers) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+| [2885-count-occurrences-in-text](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2885-count-occurrences-in-text) |
 ## Doubly-Linked List
 |  |
 | ------- |
