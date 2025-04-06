@@ -110,6 +110,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0347-top-k-frequent-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0368-largest-divisible-subset](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
@@ -652,6 +653,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0279-perfect-squares](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0282-expression-add-operators) |
 | [0335-self-crossing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0335-self-crossing) |
+| [0368-largest-divisible-subset](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0458-poor-pigs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0458-poor-pigs) |
@@ -962,6 +964,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0295-find-median-from-data-stream](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0354-russian-doll-envelopes) |
+| [0368-largest-divisible-subset](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0436-find-right-interval) |
@@ -1810,6 +1813,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0337-house-robber-iii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0354-russian-doll-envelopes) |
+| [0368-largest-divisible-subset](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0403-frog-jump) |
