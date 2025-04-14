@@ -296,6 +296,7 @@ https://seanprashad.com/leetcode-patterns/
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1622-max-value-of-equation](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1622-max-value-of-equation) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1656-count-good-triplets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1656-count-good-triplets) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/HasanulRafi/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -2669,6 +2670,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0479-largest-palindrome-product](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0479-largest-palindrome-product) |
 | [0834-ambiguous-coordinates](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0834-ambiguous-coordinates) |
 | [0986-largest-time-for-given-digits](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0986-largest-time-for-given-digits) |
+| [1656-count-good-triplets](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2140-longest-subsequence-repeated-k-times) |
