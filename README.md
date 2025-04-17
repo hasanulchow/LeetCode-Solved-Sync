@@ -343,6 +343,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2265-partition-array-according-to-given-pivot](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2272-maximum-good-people-based-on-statements) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2280-count-good-triplets-in-an-array) |
 | [2291-maximum-and-sum-of-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2291-maximum-and-sum-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2292-counting-words-with-a-given-prefix) |
