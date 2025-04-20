@@ -176,6 +176,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0780-max-chunks-to-make-sorted](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0817-design-hashmap) |
 | [0821-bricks-falling-when-hit](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0821-bricks-falling-when-hit) |
@@ -496,6 +497,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0721-accounts-merge](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/HasanulRafi/LeetCode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0822-unique-morse-code-words) |
@@ -682,6 +684,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0679-24-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0728-self-dividing-numbers) |
+| [0797-rabbits-in-forest](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0797-rabbits-in-forest) |
 | [0823-split-array-with-same-average](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0823-split-array-with-same-average) |
 | [0828-chalkboard-xor-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0828-chalkboard-xor-game) |
 | [0830-largest-triangle-area](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0830-largest-triangle-area) |
@@ -1154,6 +1157,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/HasanulRafi/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0797-rabbits-in-forest) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0853-most-profit-assigning-work](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0853-most-profit-assigning-work) |
 | [0946-smallest-range-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0946-smallest-range-ii) |
