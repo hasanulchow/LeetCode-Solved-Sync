@@ -339,6 +339,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2232-adding-spaces-to-a-string](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2232-adding-spaces-to-a-string) |
 | [2234-minimum-operations-to-make-the-array-k-increasing](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2234-minimum-operations-to-make-the-array-k-increasing) |
 | [2241-recover-the-original-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2241-recover-the-original-array) |
+| [2249-count-the-hidden-sequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2262-solving-questions-with-brainpower) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1776,6 +1777,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2145-grid-game](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2145-grid-game) |
 | [2200-stamping-the-grid](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2200-stamping-the-grid) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2249-count-the-hidden-sequences](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2691-count-vowel-strings-in-ranges) |
