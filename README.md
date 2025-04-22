@@ -727,6 +727,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2448-count-number-of-bad-pairs) |
 | [2531-create-components-with-same-value](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2531-create-components-with-same-value) |
 | [2610-closest-prime-numbers-in-range](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2610-closest-prime-numbers-in-range) |
@@ -1926,6 +1927,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2291-maximum-and-sum-of-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2291-maximum-and-sum-of-array) |
 | [2295-minimum-time-to-finish-the-race](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2295-minimum-time-to-finish-the-race) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2562-count-ways-to-build-good-strings) |
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -2360,6 +2362,7 @@ https://seanprashad.com/leetcode-patterns/
 | [0489-kth-smallest-instructions](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0489-kth-smallest-instructions) |
 | [0956-number-of-music-playlists](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/0956-number-of-music-playlists) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3548-find-the-count-of-good-integers) |
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 | [3631-count-k-reducible-numbers-less-than-n](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3631-count-k-reducible-numbers-less-than-n) |
@@ -2588,6 +2591,7 @@ https://seanprashad.com/leetcode-patterns/
 | [2125-gcd-sort-of-an-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2125-gcd-sort-of-an-array) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3001-apply-operations-to-maximize-score) |
