@@ -1,6 +1,16 @@
-class Solution:
-    def reverseVowels(self, s: str) -> str:
-        vowels=[i for i in s if i in "aeiouAEIOU"]
-        result=[i if i not in "aeiouAEIOU" else vowels.pop() for i in s]
-        return "".join(result)
-        
+class Solution(object):
+    def reverseVowels(self, s):  
+        word = list(s)
+        start = 0
+        end = len(s) - 1
+        vowels = "aeiouAEIOU"
+        while start < end:
+            
+            while start < end and vowels.find(word[start]) == -1:
+                start += 1  
+            while start < end and vowels.find(word[end]) == -1:
+                end -= 1 
+            word[start], word[end] = word[end], word[start]   
+            start += 1
+            end -= 1
+        return "".join(word)
