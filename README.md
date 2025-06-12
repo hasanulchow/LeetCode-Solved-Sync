@@ -444,6 +444,7 @@ https://seanprashad.com/leetcode-patterns/
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/HasanulRafi/LeetCode-Solved-Sync/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/hasanulchow/LeetCode-Solved-Sync/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
